@@ -1,0 +1,1001 @@
+Invoice ID,Branch,Customer type,Product line,Total,Date,Rating,Hour
+INV-1000,C,Member,Health & Beauty,306.97,2024-01-01 00:00:00,4.2,0
+INV-1001,A,Member,Electronic accessories,980.37,2024-01-01 03:00:00,6.9,3
+INV-1002,C,Member,Sports & Travel,609.84,2024-01-01 06:00:00,8.0,6
+INV-1003,C,Member,Food & beverages,590.77,2024-01-01 09:00:00,4.7,9
+INV-1004,A,Normal,Home & Lifestyle,753.11,2024-01-01 12:00:00,5.7,12
+INV-1005,A,Member,Fashion accessories,815.53,2024-01-01 15:00:00,6.4,15
+INV-1006,C,Normal,Home & Lifestyle,663.35,2024-01-01 18:00:00,9.5,18
+INV-1007,B,Normal,Fashion accessories,145.53,2024-01-01 21:00:00,10.0,21
+INV-1008,C,Member,Electronic accessories,351.5,2024-01-02 00:00:00,4.3,0
+INV-1009,C,Normal,Health & Beauty,929.52,2024-01-02 03:00:00,8.6,3
+INV-1010,C,Normal,Electronic accessories,240.12,2024-01-02 06:00:00,6.2,6
+INV-1011,C,Normal,Sports & Travel,384.72,2024-01-02 09:00:00,6.4,9
+INV-1012,A,Normal,Sports & Travel,443.44,2024-01-02 12:00:00,8.5,12
+INV-1013,C,Member,Fashion accessories,450.62,2024-01-02 15:00:00,9.5,15
+INV-1014,B,Normal,Food & beverages,620.68,2024-01-02 18:00:00,9.7,18
+INV-1015,A,Member,Food & beverages,944.21,2024-01-02 21:00:00,7.5,21
+INV-1016,B,Normal,Fashion accessories,255.88,2024-01-03 00:00:00,6.1,0
+INV-1017,B,Normal,Sports & Travel,139.07,2024-01-03 03:00:00,8.7,3
+INV-1018,B,Member,Sports & Travel,213.52,2024-01-03 06:00:00,5.5,6
+INV-1019,B,Normal,Sports & Travel,889.19,2024-01-03 09:00:00,7.4,9
+INV-1020,A,Normal,Electronic accessories,652.89,2024-01-03 12:00:00,6.2,12
+INV-1021,A,Normal,Sports & Travel,300.19,2024-01-03 15:00:00,7.9,15
+INV-1022,B,Member,Home & Lifestyle,819.63,2024-01-03 18:00:00,5.4,18
+INV-1023,B,Normal,Health & Beauty,864.14,2024-01-03 21:00:00,5.1,21
+INV-1024,A,Member,Sports & Travel,849.58,2024-01-04 00:00:00,9.5,0
+INV-1025,A,Normal,Fashion accessories,920.55,2024-01-04 03:00:00,4.6,3
+INV-1026,A,Member,Health & Beauty,267.2,2024-01-04 06:00:00,7.0,6
+INV-1027,C,Member,Electronic accessories,759.94,2024-01-04 09:00:00,5.3,9
+INV-1028,C,Normal,Fashion accessories,471.33,2024-01-04 12:00:00,4.2,12
+INV-1029,C,Normal,Health & Beauty,845.16,2024-01-04 15:00:00,4.2,15
+INV-1030,B,Member,Fashion accessories,733.92,2024-01-04 18:00:00,5.1,18
+INV-1031,C,Member,Electronic accessories,780.92,2024-01-04 21:00:00,9.2,21
+INV-1032,B,Normal,Home & Lifestyle,663.04,2024-01-05 00:00:00,5.7,0
+INV-1033,B,Member,Electronic accessories,193.88,2024-01-05 03:00:00,9.7,3
+INV-1034,C,Normal,Electronic accessories,554.13,2024-01-05 06:00:00,7.5,6
+INV-1035,B,Normal,Fashion accessories,984.98,2024-01-05 09:00:00,6.6,9
+INV-1036,C,Normal,Food & beverages,938.64,2024-01-05 12:00:00,7.5,12
+INV-1037,C,Normal,Sports & Travel,62.31,2024-01-05 15:00:00,7.1,15
+INV-1038,A,Member,Sports & Travel,181.52,2024-01-05 18:00:00,8.6,18
+INV-1039,C,Normal,Home & Lifestyle,149.09,2024-01-05 21:00:00,5.7,21
+INV-1040,A,Member,Home & Lifestyle,731.46,2024-01-06 00:00:00,6.1,0
+INV-1041,C,Normal,Sports & Travel,821.43,2024-01-06 03:00:00,9.4,3
+INV-1042,C,Member,Food & beverages,229.24,2024-01-06 06:00:00,9.7,6
+INV-1043,A,Normal,Sports & Travel,515.74,2024-01-06 09:00:00,9.4,9
+INV-1044,A,Member,Food & beverages,843.89,2024-01-06 12:00:00,6.5,12
+INV-1045,C,Member,Home & Lifestyle,738.15,2024-01-06 15:00:00,8.7,15
+INV-1046,B,Normal,Health & Beauty,551.39,2024-01-06 18:00:00,6.9,18
+INV-1047,A,Normal,Fashion accessories,598.54,2024-01-06 21:00:00,7.0,21
+INV-1048,B,Normal,Home & Lifestyle,518.19,2024-01-07 00:00:00,5.2,0
+INV-1049,B,Normal,Home & Lifestyle,311.6,2024-01-07 03:00:00,7.5,3
+INV-1050,B,Member,Electronic accessories,573.72,2024-01-07 06:00:00,5.1,6
+INV-1051,A,Normal,Electronic accessories,695.11,2024-01-07 09:00:00,6.0,9
+INV-1052,B,Member,Electronic accessories,875.86,2024-01-07 12:00:00,9.1,12
+INV-1053,A,Member,Fashion accessories,643.57,2024-01-07 15:00:00,5.2,15
+INV-1054,B,Normal,Electronic accessories,765.9,2024-01-07 18:00:00,4.4,18
+INV-1055,C,Member,Food & beverages,176.87,2024-01-07 21:00:00,4.4,21
+INV-1056,C,Member,Sports & Travel,472.33,2024-01-08 00:00:00,9.6,0
+INV-1057,A,Member,Health & Beauty,29.14,2024-01-08 03:00:00,7.0,3
+INV-1058,C,Member,Home & Lifestyle,261.75,2024-01-08 06:00:00,6.5,6
+INV-1059,C,Normal,Food & beverages,731.93,2024-01-08 09:00:00,8.9,9
+INV-1060,B,Normal,Health & Beauty,991.97,2024-01-08 12:00:00,9.0,12
+INV-1061,A,Normal,Food & beverages,117.19,2024-01-08 15:00:00,6.0,15
+INV-1062,B,Normal,Food & beverages,413.46,2024-01-08 18:00:00,8.2,18
+INV-1063,B,Member,Home & Lifestyle,804.07,2024-01-08 21:00:00,8.6,21
+INV-1064,B,Member,Sports & Travel,219.95,2024-01-09 00:00:00,7.9,0
+INV-1065,B,Normal,Electronic accessories,563.98,2024-01-09 03:00:00,4.9,3
+INV-1066,B,Normal,Fashion accessories,738.41,2024-01-09 06:00:00,9.3,6
+INV-1067,B,Normal,Sports & Travel,623.67,2024-01-09 09:00:00,7.2,9
+INV-1068,B,Member,Fashion accessories,204.26,2024-01-09 12:00:00,5.7,12
+INV-1069,A,Normal,Home & Lifestyle,368.28,2024-01-09 15:00:00,6.6,15
+INV-1070,C,Normal,Home & Lifestyle,788.12,2024-01-09 18:00:00,4.2,18
+INV-1071,B,Normal,Home & Lifestyle,563.14,2024-01-09 21:00:00,4.8,21
+INV-1072,B,Member,Health & Beauty,25.13,2024-01-10 00:00:00,8.6,0
+INV-1073,B,Member,Fashion accessories,765.77,2024-01-10 03:00:00,4.0,3
+INV-1074,B,Member,Sports & Travel,54.61,2024-01-10 06:00:00,6.5,6
+INV-1075,B,Member,Sports & Travel,750.82,2024-01-10 09:00:00,7.1,9
+INV-1076,B,Member,Food & beverages,218.43,2024-01-10 12:00:00,4.3,12
+INV-1077,C,Member,Food & beverages,958.91,2024-01-10 15:00:00,9.8,15
+INV-1078,C,Member,Food & beverages,380.58,2024-01-10 18:00:00,5.4,18
+INV-1079,B,Member,Home & Lifestyle,340.39,2024-01-10 21:00:00,5.8,21
+INV-1080,C,Normal,Sports & Travel,165.91,2024-01-11 00:00:00,5.8,0
+INV-1081,A,Normal,Fashion accessories,319.49,2024-01-11 03:00:00,5.4,3
+INV-1082,B,Member,Home & Lifestyle,879.12,2024-01-11 06:00:00,4.0,6
+INV-1083,A,Member,Health & Beauty,996.41,2024-01-11 09:00:00,8.4,9
+INV-1084,A,Normal,Food & beverages,380.94,2024-01-11 12:00:00,9.8,12
+INV-1085,B,Member,Home & Lifestyle,459.64,2024-01-11 15:00:00,5.3,15
+INV-1086,C,Member,Home & Lifestyle,727.63,2024-01-11 18:00:00,8.0,18
+INV-1087,A,Member,Health & Beauty,888.47,2024-01-11 21:00:00,8.5,21
+INV-1088,B,Normal,Electronic accessories,601.18,2024-01-12 00:00:00,9.1,0
+INV-1089,A,Normal,Sports & Travel,403.7,2024-01-12 03:00:00,6.5,3
+INV-1090,A,Normal,Fashion accessories,424.37,2024-01-12 06:00:00,5.8,6
+INV-1091,A,Normal,Electronic accessories,701.71,2024-01-12 09:00:00,6.0,9
+INV-1092,A,Normal,Food & beverages,23.15,2024-01-12 12:00:00,8.3,12
+INV-1093,C,Member,Home & Lifestyle,627.2,2024-01-12 15:00:00,8.9,15
+INV-1094,A,Normal,Health & Beauty,368.38,2024-01-12 18:00:00,5.1,18
+INV-1095,A,Member,Health & Beauty,798.31,2024-01-12 21:00:00,6.2,21
+INV-1096,A,Member,Sports & Travel,111.13,2024-01-13 00:00:00,9.4,0
+INV-1097,C,Normal,Electronic accessories,596.44,2024-01-13 03:00:00,8.8,3
+INV-1098,A,Normal,Sports & Travel,491.35,2024-01-13 06:00:00,9.9,6
+INV-1099,A,Member,Home & Lifestyle,649.48,2024-01-13 09:00:00,8.5,9
+INV-1100,C,Member,Sports & Travel,83.56,2024-01-13 12:00:00,6.4,12
+INV-1101,C,Member,Fashion accessories,588.38,2024-01-13 15:00:00,7.5,15
+INV-1102,C,Normal,Health & Beauty,570.25,2024-01-13 18:00:00,8.0,18
+INV-1103,A,Normal,Health & Beauty,569.45,2024-01-13 21:00:00,4.5,21
+INV-1104,C,Normal,Food & beverages,611.42,2024-01-14 00:00:00,7.3,0
+INV-1105,C,Normal,Food & beverages,682.94,2024-01-14 03:00:00,8.3,3
+INV-1106,A,Normal,Home & Lifestyle,808.89,2024-01-14 06:00:00,5.0,6
+INV-1107,C,Member,Fashion accessories,284.42,2024-01-14 09:00:00,8.7,9
+INV-1108,A,Normal,Electronic accessories,828.55,2024-01-14 12:00:00,7.5,12
+INV-1109,B,Member,Sports & Travel,508.29,2024-01-14 15:00:00,9.7,15
+INV-1110,C,Member,Home & Lifestyle,95.52,2024-01-14 18:00:00,4.3,18
+INV-1111,B,Member,Food & beverages,77.38,2024-01-14 21:00:00,5.6,21
+INV-1112,A,Normal,Sports & Travel,347.55,2024-01-15 00:00:00,7.6,0
+INV-1113,C,Normal,Food & beverages,789.2,2024-01-15 03:00:00,5.8,3
+INV-1114,A,Normal,Sports & Travel,713.53,2024-01-15 06:00:00,8.3,6
+INV-1115,B,Member,Electronic accessories,792.84,2024-01-15 09:00:00,8.6,9
+INV-1116,A,Member,Home & Lifestyle,526.92,2024-01-15 12:00:00,4.6,12
+INV-1117,C,Member,Sports & Travel,451.4,2024-01-15 15:00:00,7.1,15
+INV-1118,C,Member,Fashion accessories,164.5,2024-01-15 18:00:00,7.1,18
+INV-1119,B,Member,Health & Beauty,341.63,2024-01-15 21:00:00,6.2,21
+INV-1120,A,Member,Fashion accessories,445.34,2024-01-16 00:00:00,9.6,0
+INV-1121,C,Normal,Fashion accessories,106.83,2024-01-16 03:00:00,9.0,3
+INV-1122,B,Normal,Health & Beauty,236.2,2024-01-16 06:00:00,8.2,6
+INV-1123,C,Normal,Fashion accessories,606.26,2024-01-16 09:00:00,8.3,9
+INV-1124,C,Normal,Sports & Travel,740.95,2024-01-16 12:00:00,6.8,12
+INV-1125,A,Member,Sports & Travel,998.38,2024-01-16 15:00:00,9.5,15
+INV-1126,C,Member,Sports & Travel,934.45,2024-01-16 18:00:00,8.2,18
+INV-1127,A,Normal,Health & Beauty,649.71,2024-01-16 21:00:00,8.4,21
+INV-1128,C,Member,Fashion accessories,432.82,2024-01-17 00:00:00,9.2,0
+INV-1129,B,Normal,Health & Beauty,643.45,2024-01-17 03:00:00,5.6,3
+INV-1130,C,Normal,Sports & Travel,789.94,2024-01-17 06:00:00,8.8,6
+INV-1131,A,Normal,Fashion accessories,135.97,2024-01-17 09:00:00,5.2,9
+INV-1132,A,Member,Fashion accessories,421.71,2024-01-17 12:00:00,6.1,12
+INV-1133,B,Normal,Food & beverages,843.01,2024-01-17 15:00:00,6.0,15
+INV-1134,C,Normal,Food & beverages,396.16,2024-01-17 18:00:00,9.9,18
+INV-1135,C,Normal,Electronic accessories,580.43,2024-01-17 21:00:00,9.1,21
+INV-1136,B,Member,Home & Lifestyle,596.01,2024-01-18 00:00:00,8.2,0
+INV-1137,C,Member,Food & beverages,200.79,2024-01-18 03:00:00,8.4,3
+INV-1138,C,Normal,Health & Beauty,374.99,2024-01-18 06:00:00,7.4,6
+INV-1139,A,Member,Food & beverages,347.82,2024-01-18 09:00:00,9.7,9
+INV-1140,C,Member,Electronic accessories,45.67,2024-01-18 12:00:00,7.0,12
+INV-1141,C,Member,Fashion accessories,43.71,2024-01-18 15:00:00,6.3,15
+INV-1142,B,Member,Electronic accessories,835.06,2024-01-18 18:00:00,5.0,18
+INV-1143,B,Member,Fashion accessories,287.61,2024-01-18 21:00:00,8.7,21
+INV-1144,A,Member,Fashion accessories,527.72,2024-01-19 00:00:00,8.4,0
+INV-1145,C,Member,Home & Lifestyle,312.75,2024-01-19 03:00:00,6.3,3
+INV-1146,C,Member,Food & beverages,941.87,2024-01-19 06:00:00,4.2,6
+INV-1147,C,Member,Health & Beauty,274.11,2024-01-19 09:00:00,9.0,9
+INV-1148,A,Member,Health & Beauty,441.06,2024-01-19 12:00:00,4.1,12
+INV-1149,A,Normal,Sports & Travel,875.28,2024-01-19 15:00:00,8.2,15
+INV-1150,B,Normal,Fashion accessories,845.09,2024-01-19 18:00:00,9.8,18
+INV-1151,A,Member,Health & Beauty,202.38,2024-01-19 21:00:00,6.6,21
+INV-1152,C,Normal,Home & Lifestyle,806.59,2024-01-20 00:00:00,5.4,0
+INV-1153,C,Normal,Fashion accessories,469.02,2024-01-20 03:00:00,8.2,3
+INV-1154,A,Member,Home & Lifestyle,493.31,2024-01-20 06:00:00,8.9,6
+INV-1155,C,Member,Health & Beauty,150.81,2024-01-20 09:00:00,7.3,9
+INV-1156,C,Member,Health & Beauty,98.99,2024-01-20 12:00:00,9.8,12
+INV-1157,A,Normal,Sports & Travel,733.38,2024-01-20 15:00:00,4.3,15
+INV-1158,A,Normal,Health & Beauty,506.53,2024-01-20 18:00:00,7.0,18
+INV-1159,C,Member,Fashion accessories,448.11,2024-01-20 21:00:00,8.3,21
+INV-1160,C,Member,Fashion accessories,734.92,2024-01-21 00:00:00,9.2,0
+INV-1161,C,Member,Fashion accessories,770.2,2024-01-21 03:00:00,5.1,3
+INV-1162,B,Normal,Sports & Travel,175.73,2024-01-21 06:00:00,8.8,6
+INV-1163,B,Normal,Sports & Travel,618.02,2024-01-21 09:00:00,7.3,9
+INV-1164,B,Normal,Health & Beauty,152.65,2024-01-21 12:00:00,6.4,12
+INV-1165,A,Normal,Electronic accessories,756.35,2024-01-21 15:00:00,4.8,15
+INV-1166,B,Member,Electronic accessories,663.82,2024-01-21 18:00:00,9.2,18
+INV-1167,A,Member,Sports & Travel,957.48,2024-01-21 21:00:00,4.9,21
+INV-1168,A,Member,Health & Beauty,87.58,2024-01-22 00:00:00,5.9,0
+INV-1169,B,Member,Electronic accessories,75.91,2024-01-22 03:00:00,5.7,3
+INV-1170,B,Normal,Health & Beauty,296.54,2024-01-22 06:00:00,9.2,6
+INV-1171,B,Normal,Health & Beauty,276.47,2024-01-22 09:00:00,8.0,9
+INV-1172,C,Member,Health & Beauty,262.04,2024-01-22 12:00:00,8.8,12
+INV-1173,B,Member,Food & beverages,908.13,2024-01-22 15:00:00,5.5,15
+INV-1174,C,Normal,Fashion accessories,264.56,2024-01-22 18:00:00,7.7,18
+INV-1175,A,Member,Health & Beauty,286.51,2024-01-22 21:00:00,7.4,21
+INV-1176,C,Normal,Food & beverages,764.21,2024-01-23 00:00:00,9.0,0
+INV-1177,B,Member,Sports & Travel,460.75,2024-01-23 03:00:00,9.4,3
+INV-1178,A,Member,Electronic accessories,781.18,2024-01-23 06:00:00,4.1,6
+INV-1179,A,Member,Fashion accessories,84.06,2024-01-23 09:00:00,8.0,9
+INV-1180,A,Member,Electronic accessories,497.82,2024-01-23 12:00:00,4.3,12
+INV-1181,C,Member,Fashion accessories,52.94,2024-01-23 15:00:00,7.3,15
+INV-1182,B,Member,Electronic accessories,81.4,2024-01-23 18:00:00,5.7,18
+INV-1183,A,Member,Fashion accessories,908.31,2024-01-23 21:00:00,5.8,21
+INV-1184,A,Normal,Electronic accessories,156.46,2024-01-24 00:00:00,6.1,0
+INV-1185,A,Normal,Electronic accessories,541.77,2024-01-24 03:00:00,7.7,3
+INV-1186,C,Normal,Electronic accessories,422.87,2024-01-24 06:00:00,6.0,6
+INV-1187,C,Normal,Electronic accessories,360.4,2024-01-24 09:00:00,8.4,9
+INV-1188,B,Normal,Sports & Travel,901.84,2024-01-24 12:00:00,6.4,12
+INV-1189,C,Member,Health & Beauty,41.39,2024-01-24 15:00:00,4.4,15
+INV-1190,A,Member,Home & Lifestyle,670.51,2024-01-24 18:00:00,8.7,18
+INV-1191,B,Normal,Food & beverages,964.13,2024-01-24 21:00:00,5.7,21
+INV-1192,A,Member,Home & Lifestyle,568.96,2024-01-25 00:00:00,6.6,0
+INV-1193,A,Normal,Home & Lifestyle,938.09,2024-01-25 03:00:00,8.1,3
+INV-1194,C,Normal,Fashion accessories,71.21,2024-01-25 06:00:00,6.0,6
+INV-1195,B,Member,Health & Beauty,430.42,2024-01-25 09:00:00,4.3,9
+INV-1196,C,Member,Fashion accessories,274.95,2024-01-25 12:00:00,6.2,12
+INV-1197,C,Member,Health & Beauty,736.2,2024-01-25 15:00:00,9.7,15
+INV-1198,B,Normal,Health & Beauty,981.67,2024-01-25 18:00:00,7.9,18
+INV-1199,A,Member,Electronic accessories,271.4,2024-01-25 21:00:00,8.0,21
+INV-1200,A,Normal,Sports & Travel,661.09,2024-01-26 00:00:00,7.8,0
+INV-1201,B,Normal,Electronic accessories,214.14,2024-01-26 03:00:00,5.2,3
+INV-1202,A,Normal,Sports & Travel,574.02,2024-01-26 06:00:00,6.5,6
+INV-1203,B,Member,Fashion accessories,474.65,2024-01-26 09:00:00,8.5,9
+INV-1204,B,Member,Sports & Travel,972.57,2024-01-26 12:00:00,4.6,12
+INV-1205,C,Normal,Fashion accessories,616.36,2024-01-26 15:00:00,5.7,15
+INV-1206,B,Member,Home & Lifestyle,362.52,2024-01-26 18:00:00,5.7,18
+INV-1207,C,Member,Home & Lifestyle,131.81,2024-01-26 21:00:00,6.6,21
+INV-1208,A,Member,Sports & Travel,168.22,2024-01-27 00:00:00,9.9,0
+INV-1209,A,Normal,Sports & Travel,240.81,2024-01-27 03:00:00,4.4,3
+INV-1210,A,Normal,Fashion accessories,265.95,2024-01-27 06:00:00,7.1,6
+INV-1211,A,Member,Electronic accessories,853.6,2024-01-27 09:00:00,5.1,9
+INV-1212,C,Normal,Fashion accessories,570.0,2024-01-27 12:00:00,9.8,12
+INV-1213,A,Member,Electronic accessories,532.92,2024-01-27 15:00:00,4.7,15
+INV-1214,B,Member,Home & Lifestyle,132.47,2024-01-27 18:00:00,6.4,18
+INV-1215,B,Member,Health & Beauty,862.94,2024-01-27 21:00:00,8.4,21
+INV-1216,B,Member,Sports & Travel,728.36,2024-01-28 00:00:00,8.2,0
+INV-1217,C,Normal,Electronic accessories,86.31,2024-01-28 03:00:00,6.5,3
+INV-1218,A,Normal,Fashion accessories,713.68,2024-01-28 06:00:00,6.1,6
+INV-1219,A,Normal,Home & Lifestyle,552.67,2024-01-28 09:00:00,6.4,9
+INV-1220,A,Member,Electronic accessories,100.09,2024-01-28 12:00:00,5.6,12
+INV-1221,C,Member,Fashion accessories,469.13,2024-01-28 15:00:00,5.2,15
+INV-1222,B,Member,Sports & Travel,495.0,2024-01-28 18:00:00,6.9,18
+INV-1223,B,Normal,Sports & Travel,182.46,2024-01-28 21:00:00,5.6,21
+INV-1224,A,Member,Food & beverages,946.78,2024-01-29 00:00:00,5.7,0
+INV-1225,B,Normal,Health & Beauty,852.98,2024-01-29 03:00:00,7.9,3
+INV-1226,B,Normal,Food & beverages,675.64,2024-01-29 06:00:00,9.8,6
+INV-1227,C,Normal,Home & Lifestyle,473.05,2024-01-29 09:00:00,7.6,9
+INV-1228,C,Normal,Electronic accessories,423.53,2024-01-29 12:00:00,4.5,12
+INV-1229,C,Normal,Home & Lifestyle,657.95,2024-01-29 15:00:00,4.5,15
+INV-1230,C,Normal,Fashion accessories,554.52,2024-01-29 18:00:00,9.7,18
+INV-1231,A,Member,Sports & Travel,81.03,2024-01-29 21:00:00,5.8,21
+INV-1232,C,Member,Food & beverages,522.25,2024-01-30 00:00:00,4.6,0
+INV-1233,B,Normal,Food & beverages,810.28,2024-01-30 03:00:00,7.6,3
+INV-1234,A,Normal,Food & beverages,470.06,2024-01-30 06:00:00,7.7,6
+INV-1235,B,Member,Home & Lifestyle,70.92,2024-01-30 09:00:00,7.9,9
+INV-1236,B,Normal,Sports & Travel,790.55,2024-01-30 12:00:00,5.6,12
+INV-1237,B,Normal,Electronic accessories,217.34,2024-01-30 15:00:00,4.1,15
+INV-1238,C,Member,Fashion accessories,273.45,2024-01-30 18:00:00,9.8,18
+INV-1239,C,Normal,Electronic accessories,181.41,2024-01-30 21:00:00,5.5,21
+INV-1240,A,Normal,Home & Lifestyle,343.61,2024-01-31 00:00:00,8.1,0
+INV-1241,A,Normal,Fashion accessories,761.62,2024-01-31 03:00:00,8.2,3
+INV-1242,C,Member,Food & beverages,529.0,2024-01-31 06:00:00,7.7,6
+INV-1243,B,Member,Health & Beauty,220.78,2024-01-31 09:00:00,5.9,9
+INV-1244,A,Member,Home & Lifestyle,880.27,2024-01-31 12:00:00,5.6,12
+INV-1245,C,Normal,Home & Lifestyle,881.99,2024-01-31 15:00:00,7.6,15
+INV-1246,C,Normal,Sports & Travel,873.17,2024-01-31 18:00:00,9.2,18
+INV-1247,C,Member,Electronic accessories,254.02,2024-01-31 21:00:00,9.7,21
+INV-1248,B,Normal,Home & Lifestyle,462.21,2024-02-01 00:00:00,4.6,0
+INV-1249,C,Normal,Home & Lifestyle,985.29,2024-02-01 03:00:00,4.9,3
+INV-1250,C,Normal,Food & beverages,776.57,2024-02-01 06:00:00,9.7,6
+INV-1251,C,Normal,Food & beverages,46.62,2024-02-01 09:00:00,8.4,9
+INV-1252,C,Normal,Fashion accessories,83.9,2024-02-01 12:00:00,9.3,12
+INV-1253,A,Member,Health & Beauty,474.65,2024-02-01 15:00:00,5.2,15
+INV-1254,A,Normal,Sports & Travel,911.04,2024-02-01 18:00:00,7.5,18
+INV-1255,C,Member,Health & Beauty,547.93,2024-02-01 21:00:00,8.2,21
+INV-1256,B,Normal,Fashion accessories,507.86,2024-02-02 00:00:00,8.1,0
+INV-1257,A,Member,Food & beverages,123.36,2024-02-02 03:00:00,6.4,3
+INV-1258,C,Normal,Electronic accessories,663.64,2024-02-02 06:00:00,4.1,6
+INV-1259,A,Member,Food & beverages,825.66,2024-02-02 09:00:00,7.5,9
+INV-1260,A,Normal,Sports & Travel,392.81,2024-02-02 12:00:00,5.5,12
+INV-1261,B,Member,Food & beverages,780.1,2024-02-02 15:00:00,6.7,15
+INV-1262,C,Normal,Sports & Travel,965.19,2024-02-02 18:00:00,9.7,18
+INV-1263,C,Member,Sports & Travel,219.69,2024-02-02 21:00:00,6.4,21
+INV-1264,B,Normal,Sports & Travel,532.86,2024-02-03 00:00:00,9.0,0
+INV-1265,B,Member,Fashion accessories,301.4,2024-02-03 03:00:00,5.1,3
+INV-1266,C,Member,Sports & Travel,797.0,2024-02-03 06:00:00,8.0,6
+INV-1267,C,Normal,Sports & Travel,586.04,2024-02-03 09:00:00,9.9,9
+INV-1268,B,Normal,Electronic accessories,641.89,2024-02-03 12:00:00,4.6,12
+INV-1269,A,Member,Health & Beauty,801.96,2024-02-03 15:00:00,4.0,15
+INV-1270,A,Normal,Home & Lifestyle,408.05,2024-02-03 18:00:00,6.6,18
+INV-1271,B,Member,Health & Beauty,916.79,2024-02-03 21:00:00,4.6,21
+INV-1272,A,Member,Sports & Travel,542.37,2024-02-04 00:00:00,8.5,0
+INV-1273,B,Member,Electronic accessories,174.8,2024-02-04 03:00:00,9.5,3
+INV-1274,A,Normal,Food & beverages,701.98,2024-02-04 06:00:00,6.6,6
+INV-1275,A,Member,Electronic accessories,797.4,2024-02-04 09:00:00,5.6,9
+INV-1276,C,Member,Sports & Travel,330.43,2024-02-04 12:00:00,6.6,12
+INV-1277,C,Normal,Electronic accessories,860.04,2024-02-04 15:00:00,8.3,15
+INV-1278,A,Normal,Electronic accessories,908.02,2024-02-04 18:00:00,4.1,18
+INV-1279,A,Normal,Sports & Travel,291.37,2024-02-04 21:00:00,7.5,21
+INV-1280,C,Normal,Fashion accessories,983.85,2024-02-05 00:00:00,7.7,0
+INV-1281,C,Member,Electronic accessories,157.9,2024-02-05 03:00:00,7.8,3
+INV-1282,C,Member,Home & Lifestyle,217.98,2024-02-05 06:00:00,5.5,6
+INV-1283,B,Member,Home & Lifestyle,200.54,2024-02-05 09:00:00,8.3,9
+INV-1284,A,Member,Electronic accessories,896.11,2024-02-05 12:00:00,4.5,12
+INV-1285,C,Normal,Fashion accessories,661.21,2024-02-05 15:00:00,5.2,15
+INV-1286,A,Member,Food & beverages,169.06,2024-02-05 18:00:00,9.3,18
+INV-1287,B,Member,Sports & Travel,451.52,2024-02-05 21:00:00,8.4,21
+INV-1288,B,Normal,Home & Lifestyle,622.99,2024-02-06 00:00:00,4.1,0
+INV-1289,C,Member,Food & beverages,101.79,2024-02-06 03:00:00,5.5,3
+INV-1290,B,Member,Electronic accessories,884.77,2024-02-06 06:00:00,5.3,6
+INV-1291,A,Member,Food & beverages,807.53,2024-02-06 09:00:00,5.6,9
+INV-1292,C,Member,Health & Beauty,515.1,2024-02-06 12:00:00,5.5,12
+INV-1293,A,Member,Home & Lifestyle,967.78,2024-02-06 15:00:00,4.4,15
+INV-1294,A,Member,Electronic accessories,429.41,2024-02-06 18:00:00,6.8,18
+INV-1295,B,Normal,Sports & Travel,984.43,2024-02-06 21:00:00,8.4,21
+INV-1296,B,Normal,Fashion accessories,674.56,2024-02-07 00:00:00,7.6,0
+INV-1297,B,Member,Electronic accessories,641.98,2024-02-07 03:00:00,8.0,3
+INV-1298,B,Member,Sports & Travel,182.64,2024-02-07 06:00:00,4.5,6
+INV-1299,B,Normal,Fashion accessories,884.29,2024-02-07 09:00:00,9.7,9
+INV-1300,C,Member,Fashion accessories,438.94,2024-02-07 12:00:00,9.0,12
+INV-1301,A,Member,Electronic accessories,178.99,2024-02-07 15:00:00,8.8,15
+INV-1302,A,Member,Food & beverages,32.36,2024-02-07 18:00:00,8.9,18
+INV-1303,A,Normal,Food & beverages,568.56,2024-02-07 21:00:00,9.6,21
+INV-1304,A,Member,Fashion accessories,536.85,2024-02-08 00:00:00,7.3,0
+INV-1305,B,Normal,Food & beverages,724.97,2024-02-08 03:00:00,5.2,3
+INV-1306,A,Member,Health & Beauty,892.45,2024-02-08 06:00:00,7.7,6
+INV-1307,C,Normal,Fashion accessories,97.82,2024-02-08 09:00:00,8.5,9
+INV-1308,C,Normal,Fashion accessories,736.87,2024-02-08 12:00:00,8.4,12
+INV-1309,A,Member,Sports & Travel,203.66,2024-02-08 15:00:00,7.1,15
+INV-1310,A,Normal,Food & beverages,861.01,2024-02-08 18:00:00,4.4,18
+INV-1311,C,Member,Fashion accessories,822.68,2024-02-08 21:00:00,6.2,21
+INV-1312,C,Normal,Health & Beauty,549.98,2024-02-09 00:00:00,9.5,0
+INV-1313,B,Member,Sports & Travel,716.04,2024-02-09 03:00:00,7.5,3
+INV-1314,C,Member,Electronic accessories,328.06,2024-02-09 06:00:00,7.2,6
+INV-1315,B,Normal,Fashion accessories,481.74,2024-02-09 09:00:00,5.6,9
+INV-1316,B,Member,Health & Beauty,825.2,2024-02-09 12:00:00,6.2,12
+INV-1317,B,Member,Home & Lifestyle,470.08,2024-02-09 15:00:00,9.4,15
+INV-1318,B,Normal,Health & Beauty,370.64,2024-02-09 18:00:00,8.0,18
+INV-1319,B,Member,Health & Beauty,504.33,2024-02-09 21:00:00,8.7,21
+INV-1320,A,Member,Sports & Travel,831.68,2024-02-10 00:00:00,6.7,0
+INV-1321,C,Normal,Electronic accessories,348.5,2024-02-10 03:00:00,7.8,3
+INV-1322,B,Normal,Home & Lifestyle,190.29,2024-02-10 06:00:00,5.5,6
+INV-1323,C,Member,Food & beverages,717.77,2024-02-10 09:00:00,8.2,9
+INV-1324,C,Member,Food & beverages,829.46,2024-02-10 12:00:00,6.6,12
+INV-1325,B,Normal,Health & Beauty,118.62,2024-02-10 15:00:00,6.7,15
+INV-1326,A,Normal,Sports & Travel,255.08,2024-02-10 18:00:00,7.9,18
+INV-1327,B,Member,Sports & Travel,159.13,2024-02-10 21:00:00,9.6,21
+INV-1328,A,Normal,Food & beverages,360.98,2024-02-11 00:00:00,4.4,0
+INV-1329,C,Member,Home & Lifestyle,461.34,2024-02-11 03:00:00,8.9,3
+INV-1330,A,Member,Electronic accessories,753.85,2024-02-11 06:00:00,5.8,6
+INV-1331,A,Member,Home & Lifestyle,658.12,2024-02-11 09:00:00,6.7,9
+INV-1332,A,Member,Fashion accessories,628.51,2024-02-11 12:00:00,4.1,12
+INV-1333,C,Member,Fashion accessories,365.33,2024-02-11 15:00:00,5.8,15
+INV-1334,C,Normal,Electronic accessories,844.62,2024-02-11 18:00:00,7.0,18
+INV-1335,A,Normal,Food & beverages,481.86,2024-02-11 21:00:00,4.3,21
+INV-1336,A,Normal,Electronic accessories,979.52,2024-02-12 00:00:00,6.9,0
+INV-1337,B,Normal,Sports & Travel,641.46,2024-02-12 03:00:00,9.6,3
+INV-1338,A,Member,Fashion accessories,143.74,2024-02-12 06:00:00,4.6,6
+INV-1339,B,Member,Health & Beauty,682.65,2024-02-12 09:00:00,8.6,9
+INV-1340,A,Member,Health & Beauty,338.6,2024-02-12 12:00:00,6.5,12
+INV-1341,B,Member,Food & beverages,692.6,2024-02-12 15:00:00,7.9,15
+INV-1342,C,Normal,Sports & Travel,88.25,2024-02-12 18:00:00,5.6,18
+INV-1343,A,Member,Home & Lifestyle,191.38,2024-02-12 21:00:00,5.0,21
+INV-1344,A,Member,Sports & Travel,858.62,2024-02-13 00:00:00,5.0,0
+INV-1345,A,Normal,Health & Beauty,242.64,2024-02-13 03:00:00,4.4,3
+INV-1346,A,Normal,Health & Beauty,840.3,2024-02-13 06:00:00,5.1,6
+INV-1347,B,Normal,Fashion accessories,293.69,2024-02-13 09:00:00,8.0,9
+INV-1348,A,Normal,Sports & Travel,650.02,2024-02-13 12:00:00,9.3,12
+INV-1349,C,Member,Sports & Travel,700.27,2024-02-13 15:00:00,8.9,15
+INV-1350,C,Member,Health & Beauty,522.4,2024-02-13 18:00:00,8.1,18
+INV-1351,A,Normal,Home & Lifestyle,319.2,2024-02-13 21:00:00,4.7,21
+INV-1352,C,Member,Food & beverages,228.39,2024-02-14 00:00:00,5.7,0
+INV-1353,A,Member,Food & beverages,52.53,2024-02-14 03:00:00,5.9,3
+INV-1354,A,Member,Sports & Travel,317.87,2024-02-14 06:00:00,5.5,6
+INV-1355,C,Normal,Food & beverages,660.1,2024-02-14 09:00:00,7.1,9
+INV-1356,A,Member,Health & Beauty,939.54,2024-02-14 12:00:00,7.2,12
+INV-1357,C,Normal,Health & Beauty,873.78,2024-02-14 15:00:00,6.1,15
+INV-1358,B,Member,Sports & Travel,770.74,2024-02-14 18:00:00,6.1,18
+INV-1359,A,Member,Sports & Travel,792.68,2024-02-14 21:00:00,9.0,21
+INV-1360,B,Member,Fashion accessories,671.69,2024-02-15 00:00:00,8.7,0
+INV-1361,C,Normal,Sports & Travel,275.08,2024-02-15 03:00:00,5.8,3
+INV-1362,B,Member,Home & Lifestyle,909.05,2024-02-15 06:00:00,9.5,6
+INV-1363,B,Normal,Food & beverages,677.32,2024-02-15 09:00:00,9.7,9
+INV-1364,C,Normal,Sports & Travel,569.23,2024-02-15 12:00:00,6.0,12
+INV-1365,B,Normal,Electronic accessories,128.77,2024-02-15 15:00:00,6.1,15
+INV-1366,B,Member,Fashion accessories,458.11,2024-02-15 18:00:00,7.0,18
+INV-1367,C,Member,Electronic accessories,471.15,2024-02-15 21:00:00,9.6,21
+INV-1368,B,Member,Health & Beauty,867.27,2024-02-16 00:00:00,9.3,0
+INV-1369,C,Member,Food & beverages,555.72,2024-02-16 03:00:00,4.6,3
+INV-1370,B,Normal,Sports & Travel,392.79,2024-02-16 06:00:00,6.4,6
+INV-1371,C,Normal,Electronic accessories,977.26,2024-02-16 09:00:00,7.3,9
+INV-1372,C,Normal,Food & beverages,128.51,2024-02-16 12:00:00,7.0,12
+INV-1373,B,Member,Health & Beauty,434.1,2024-02-16 15:00:00,5.2,15
+INV-1374,B,Normal,Home & Lifestyle,61.18,2024-02-16 18:00:00,9.2,18
+INV-1375,B,Member,Fashion accessories,745.11,2024-02-16 21:00:00,8.1,21
+INV-1376,A,Normal,Food & beverages,919.72,2024-02-17 00:00:00,9.0,0
+INV-1377,A,Member,Food & beverages,294.44,2024-02-17 03:00:00,9.2,3
+INV-1378,A,Member,Home & Lifestyle,861.17,2024-02-17 06:00:00,8.5,6
+INV-1379,C,Normal,Food & beverages,306.37,2024-02-17 09:00:00,6.6,9
+INV-1380,B,Normal,Health & Beauty,912.55,2024-02-17 12:00:00,7.7,12
+INV-1381,C,Normal,Health & Beauty,758.88,2024-02-17 15:00:00,5.0,15
+INV-1382,A,Normal,Home & Lifestyle,808.81,2024-02-17 18:00:00,8.0,18
+INV-1383,B,Member,Fashion accessories,37.65,2024-02-17 21:00:00,5.1,21
+INV-1384,C,Normal,Sports & Travel,963.55,2024-02-18 00:00:00,8.2,0
+INV-1385,B,Normal,Electronic accessories,732.14,2024-02-18 03:00:00,5.4,3
+INV-1386,C,Normal,Sports & Travel,318.66,2024-02-18 06:00:00,4.7,6
+INV-1387,B,Member,Food & beverages,832.81,2024-02-18 09:00:00,5.0,9
+INV-1388,A,Member,Electronic accessories,295.89,2024-02-18 12:00:00,4.0,12
+INV-1389,A,Normal,Home & Lifestyle,875.3,2024-02-18 15:00:00,8.3,15
+INV-1390,B,Member,Home & Lifestyle,130.33,2024-02-18 18:00:00,8.4,18
+INV-1391,C,Normal,Fashion accessories,709.61,2024-02-18 21:00:00,7.1,21
+INV-1392,A,Member,Electronic accessories,549.88,2024-02-19 00:00:00,5.0,0
+INV-1393,A,Member,Health & Beauty,114.6,2024-02-19 03:00:00,4.5,3
+INV-1394,A,Member,Electronic accessories,257.06,2024-02-19 06:00:00,4.1,6
+INV-1395,B,Member,Food & beverages,32.16,2024-02-19 09:00:00,5.0,9
+INV-1396,B,Normal,Health & Beauty,479.39,2024-02-19 12:00:00,9.3,12
+INV-1397,C,Normal,Home & Lifestyle,315.24,2024-02-19 15:00:00,5.4,15
+INV-1398,C,Normal,Electronic accessories,606.39,2024-02-19 18:00:00,6.1,18
+INV-1399,C,Member,Sports & Travel,311.29,2024-02-19 21:00:00,4.6,21
+INV-1400,B,Normal,Fashion accessories,313.92,2024-02-20 00:00:00,5.3,0
+INV-1401,B,Normal,Sports & Travel,748.33,2024-02-20 03:00:00,7.1,3
+INV-1402,C,Normal,Fashion accessories,67.18,2024-02-20 06:00:00,7.6,6
+INV-1403,C,Member,Food & beverages,904.84,2024-02-20 09:00:00,5.5,9
+INV-1404,B,Member,Sports & Travel,855.22,2024-02-20 12:00:00,4.3,12
+INV-1405,C,Member,Electronic accessories,674.45,2024-02-20 15:00:00,6.3,15
+INV-1406,A,Normal,Electronic accessories,601.36,2024-02-20 18:00:00,5.4,18
+INV-1407,B,Normal,Sports & Travel,894.46,2024-02-20 21:00:00,5.3,21
+INV-1408,C,Normal,Electronic accessories,201.62,2024-02-21 00:00:00,9.8,0
+INV-1409,B,Member,Food & beverages,97.39,2024-02-21 03:00:00,7.7,3
+INV-1410,A,Member,Health & Beauty,254.72,2024-02-21 06:00:00,7.3,6
+INV-1411,B,Normal,Food & beverages,798.69,2024-02-21 09:00:00,6.5,9
+INV-1412,B,Member,Fashion accessories,53.98,2024-02-21 12:00:00,6.6,12
+INV-1413,B,Member,Food & beverages,591.15,2024-02-21 15:00:00,7.2,15
+INV-1414,B,Member,Fashion accessories,995.53,2024-02-21 18:00:00,8.2,18
+INV-1415,A,Member,Electronic accessories,858.58,2024-02-21 21:00:00,8.2,21
+INV-1416,B,Normal,Health & Beauty,531.02,2024-02-22 00:00:00,5.0,0
+INV-1417,B,Member,Electronic accessories,82.37,2024-02-22 03:00:00,7.0,3
+INV-1418,C,Member,Home & Lifestyle,834.75,2024-02-22 06:00:00,6.5,6
+INV-1419,B,Member,Electronic accessories,607.0,2024-02-22 09:00:00,9.2,9
+INV-1420,C,Member,Fashion accessories,132.63,2024-02-22 12:00:00,7.8,12
+INV-1421,A,Normal,Electronic accessories,111.98,2024-02-22 15:00:00,7.2,15
+INV-1422,A,Normal,Electronic accessories,911.43,2024-02-22 18:00:00,4.7,18
+INV-1423,A,Member,Health & Beauty,675.82,2024-02-22 21:00:00,7.6,21
+INV-1424,A,Member,Electronic accessories,832.7,2024-02-23 00:00:00,4.7,0
+INV-1425,C,Member,Health & Beauty,881.4,2024-02-23 03:00:00,6.0,3
+INV-1426,B,Member,Sports & Travel,580.34,2024-02-23 06:00:00,4.9,6
+INV-1427,A,Member,Home & Lifestyle,527.1,2024-02-23 09:00:00,8.2,9
+INV-1428,B,Member,Health & Beauty,441.82,2024-02-23 12:00:00,5.2,12
+INV-1429,C,Normal,Fashion accessories,330.61,2024-02-23 15:00:00,6.4,15
+INV-1430,C,Member,Sports & Travel,445.9,2024-02-23 18:00:00,9.4,18
+INV-1431,C,Normal,Health & Beauty,778.4,2024-02-23 21:00:00,5.2,21
+INV-1432,A,Normal,Health & Beauty,609.88,2024-02-24 00:00:00,7.0,0
+INV-1433,B,Member,Home & Lifestyle,894.67,2024-02-24 03:00:00,6.5,3
+INV-1434,B,Normal,Fashion accessories,454.51,2024-02-24 06:00:00,4.1,6
+INV-1435,B,Normal,Food & beverages,614.95,2024-02-24 09:00:00,8.8,9
+INV-1436,C,Normal,Food & beverages,638.68,2024-02-24 12:00:00,4.4,12
+INV-1437,A,Normal,Health & Beauty,599.86,2024-02-24 15:00:00,6.8,15
+INV-1438,C,Normal,Electronic accessories,708.58,2024-02-24 18:00:00,7.4,18
+INV-1439,C,Normal,Fashion accessories,252.68,2024-02-24 21:00:00,7.8,21
+INV-1440,B,Member,Sports & Travel,522.12,2024-02-25 00:00:00,8.1,0
+INV-1441,C,Normal,Electronic accessories,122.14,2024-02-25 03:00:00,5.5,3
+INV-1442,B,Normal,Electronic accessories,396.82,2024-02-25 06:00:00,4.1,6
+INV-1443,A,Normal,Fashion accessories,497.91,2024-02-25 09:00:00,8.3,9
+INV-1444,B,Member,Health & Beauty,659.18,2024-02-25 12:00:00,7.2,12
+INV-1445,A,Normal,Health & Beauty,951.52,2024-02-25 15:00:00,9.0,15
+INV-1446,B,Member,Health & Beauty,608.64,2024-02-25 18:00:00,8.9,18
+INV-1447,C,Normal,Health & Beauty,748.72,2024-02-25 21:00:00,9.1,21
+INV-1448,C,Member,Food & beverages,516.14,2024-02-26 00:00:00,6.9,0
+INV-1449,A,Member,Health & Beauty,641.42,2024-02-26 03:00:00,6.0,3
+INV-1450,A,Normal,Food & beverages,89.51,2024-02-26 06:00:00,8.7,6
+INV-1451,A,Normal,Food & beverages,269.3,2024-02-26 09:00:00,6.7,9
+INV-1452,B,Member,Health & Beauty,374.62,2024-02-26 12:00:00,5.1,12
+INV-1453,B,Normal,Home & Lifestyle,483.04,2024-02-26 15:00:00,9.1,15
+INV-1454,A,Member,Sports & Travel,64.74,2024-02-26 18:00:00,9.3,18
+INV-1455,C,Member,Electronic accessories,157.22,2024-02-26 21:00:00,6.8,21
+INV-1456,B,Member,Food & beverages,291.28,2024-02-27 00:00:00,4.5,0
+INV-1457,B,Member,Fashion accessories,972.1,2024-02-27 03:00:00,6.3,3
+INV-1458,B,Member,Fashion accessories,344.72,2024-02-27 06:00:00,8.8,6
+INV-1459,A,Normal,Sports & Travel,492.4,2024-02-27 09:00:00,9.4,9
+INV-1460,A,Member,Fashion accessories,212.18,2024-02-27 12:00:00,5.2,12
+INV-1461,A,Member,Home & Lifestyle,618.56,2024-02-27 15:00:00,4.4,15
+INV-1462,A,Normal,Fashion accessories,295.07,2024-02-27 18:00:00,9.3,18
+INV-1463,A,Member,Electronic accessories,222.85,2024-02-27 21:00:00,6.3,21
+INV-1464,C,Normal,Electronic accessories,526.24,2024-02-28 00:00:00,7.3,0
+INV-1465,C,Normal,Food & beverages,25.4,2024-02-28 03:00:00,9.8,3
+INV-1466,A,Normal,Health & Beauty,27.51,2024-02-28 06:00:00,4.4,6
+INV-1467,B,Member,Home & Lifestyle,234.69,2024-02-28 09:00:00,7.9,9
+INV-1468,A,Member,Food & beverages,55.99,2024-02-28 12:00:00,4.4,12
+INV-1469,C,Member,Home & Lifestyle,125.87,2024-02-28 15:00:00,6.3,15
+INV-1470,C,Normal,Health & Beauty,352.08,2024-02-28 18:00:00,8.8,18
+INV-1471,B,Member,Fashion accessories,806.53,2024-02-28 21:00:00,6.6,21
+INV-1472,C,Normal,Fashion accessories,580.61,2024-02-29 00:00:00,10.0,0
+INV-1473,A,Member,Health & Beauty,522.41,2024-02-29 03:00:00,7.4,3
+INV-1474,B,Normal,Food & beverages,307.62,2024-02-29 06:00:00,5.9,6
+INV-1475,A,Member,Health & Beauty,933.12,2024-02-29 09:00:00,5.3,9
+INV-1476,A,Member,Sports & Travel,409.07,2024-02-29 12:00:00,6.1,12
+INV-1477,B,Member,Electronic accessories,105.35,2024-02-29 15:00:00,6.2,15
+INV-1478,A,Normal,Food & beverages,624.73,2024-02-29 18:00:00,4.4,18
+INV-1479,C,Normal,Home & Lifestyle,131.56,2024-02-29 21:00:00,6.2,21
+INV-1480,A,Member,Sports & Travel,358.32,2024-03-01 00:00:00,6.8,0
+INV-1481,B,Member,Food & beverages,517.26,2024-03-01 03:00:00,8.3,3
+INV-1482,B,Normal,Health & Beauty,876.74,2024-03-01 06:00:00,7.9,6
+INV-1483,B,Normal,Health & Beauty,503.68,2024-03-01 09:00:00,8.3,9
+INV-1484,A,Normal,Health & Beauty,708.21,2024-03-01 12:00:00,4.1,12
+INV-1485,B,Member,Health & Beauty,992.96,2024-03-01 15:00:00,5.3,15
+INV-1486,B,Normal,Home & Lifestyle,148.86,2024-03-01 18:00:00,8.0,18
+INV-1487,A,Member,Sports & Travel,289.24,2024-03-01 21:00:00,6.9,21
+INV-1488,C,Normal,Fashion accessories,406.68,2024-03-02 00:00:00,4.0,0
+INV-1489,A,Member,Electronic accessories,433.39,2024-03-02 03:00:00,8.8,3
+INV-1490,B,Normal,Home & Lifestyle,422.8,2024-03-02 06:00:00,8.6,6
+INV-1491,B,Normal,Home & Lifestyle,909.46,2024-03-02 09:00:00,7.3,9
+INV-1492,A,Normal,Fashion accessories,719.75,2024-03-02 12:00:00,4.4,12
+INV-1493,C,Normal,Fashion accessories,615.75,2024-03-02 15:00:00,8.6,15
+INV-1494,B,Normal,Electronic accessories,323.19,2024-03-02 18:00:00,7.5,18
+INV-1495,B,Member,Electronic accessories,827.31,2024-03-02 21:00:00,8.7,21
+INV-1496,B,Normal,Fashion accessories,955.96,2024-03-03 00:00:00,8.5,0
+INV-1497,A,Normal,Health & Beauty,824.77,2024-03-03 03:00:00,8.8,3
+INV-1498,B,Normal,Home & Lifestyle,21.53,2024-03-03 06:00:00,7.1,6
+INV-1499,C,Member,Food & beverages,643.67,2024-03-03 09:00:00,4.8,9
+INV-1500,B,Normal,Electronic accessories,70.11,2024-03-03 12:00:00,8.0,12
+INV-1501,B,Member,Electronic accessories,272.46,2024-03-03 15:00:00,7.7,15
+INV-1502,C,Normal,Fashion accessories,78.33,2024-03-03 18:00:00,8.5,18
+INV-1503,B,Normal,Sports & Travel,611.72,2024-03-03 21:00:00,5.0,21
+INV-1504,A,Member,Food & beverages,692.86,2024-03-04 00:00:00,5.2,0
+INV-1505,A,Normal,Food & beverages,132.2,2024-03-04 03:00:00,9.3,3
+INV-1506,A,Member,Electronic accessories,396.16,2024-03-04 06:00:00,8.5,6
+INV-1507,C,Member,Health & Beauty,467.11,2024-03-04 09:00:00,9.4,9
+INV-1508,B,Normal,Sports & Travel,381.67,2024-03-04 12:00:00,8.6,12
+INV-1509,A,Member,Food & beverages,138.6,2024-03-04 15:00:00,7.6,15
+INV-1510,C,Normal,Electronic accessories,430.57,2024-03-04 18:00:00,7.9,18
+INV-1511,B,Normal,Food & beverages,756.15,2024-03-04 21:00:00,9.3,21
+INV-1512,C,Member,Sports & Travel,89.59,2024-03-05 00:00:00,7.5,0
+INV-1513,A,Member,Sports & Travel,98.58,2024-03-05 03:00:00,7.8,3
+INV-1514,A,Member,Home & Lifestyle,367.68,2024-03-05 06:00:00,4.9,6
+INV-1515,A,Member,Fashion accessories,942.89,2024-03-05 09:00:00,6.8,9
+INV-1516,C,Normal,Fashion accessories,675.2,2024-03-05 12:00:00,8.3,12
+INV-1517,C,Normal,Electronic accessories,685.1,2024-03-05 15:00:00,5.6,15
+INV-1518,A,Member,Sports & Travel,374.68,2024-03-05 18:00:00,5.2,18
+INV-1519,C,Normal,Home & Lifestyle,601.79,2024-03-05 21:00:00,5.9,21
+INV-1520,A,Normal,Home & Lifestyle,29.93,2024-03-06 00:00:00,5.4,0
+INV-1521,A,Normal,Food & beverages,643.37,2024-03-06 03:00:00,5.3,3
+INV-1522,B,Normal,Food & beverages,915.02,2024-03-06 06:00:00,6.5,6
+INV-1523,C,Member,Home & Lifestyle,620.32,2024-03-06 09:00:00,9.4,9
+INV-1524,A,Member,Food & beverages,876.22,2024-03-06 12:00:00,7.0,12
+INV-1525,A,Normal,Sports & Travel,729.49,2024-03-06 15:00:00,5.1,15
+INV-1526,C,Member,Health & Beauty,138.15,2024-03-06 18:00:00,4.5,18
+INV-1527,B,Member,Sports & Travel,904.4,2024-03-06 21:00:00,8.2,21
+INV-1528,B,Member,Home & Lifestyle,85.11,2024-03-07 00:00:00,6.3,0
+INV-1529,A,Normal,Home & Lifestyle,543.29,2024-03-07 03:00:00,8.9,3
+INV-1530,C,Normal,Sports & Travel,159.29,2024-03-07 06:00:00,8.0,6
+INV-1531,B,Normal,Food & beverages,31.47,2024-03-07 09:00:00,8.8,9
+INV-1532,C,Member,Food & beverages,433.59,2024-03-07 12:00:00,5.6,12
+INV-1533,C,Normal,Fashion accessories,309.14,2024-03-07 15:00:00,8.2,15
+INV-1534,A,Normal,Home & Lifestyle,496.28,2024-03-07 18:00:00,5.6,18
+INV-1535,B,Member,Electronic accessories,585.66,2024-03-07 21:00:00,9.6,21
+INV-1536,A,Normal,Fashion accessories,62.86,2024-03-08 00:00:00,7.8,0
+INV-1537,B,Normal,Food & beverages,140.54,2024-03-08 03:00:00,5.9,3
+INV-1538,B,Member,Sports & Travel,567.47,2024-03-08 06:00:00,5.6,6
+INV-1539,B,Member,Food & beverages,356.3,2024-03-08 09:00:00,5.1,9
+INV-1540,B,Member,Sports & Travel,734.59,2024-03-08 12:00:00,8.2,12
+INV-1541,B,Normal,Fashion accessories,659.25,2024-03-08 15:00:00,5.3,15
+INV-1542,C,Normal,Home & Lifestyle,848.69,2024-03-08 18:00:00,7.6,18
+INV-1543,A,Normal,Food & beverages,698.64,2024-03-08 21:00:00,5.6,21
+INV-1544,C,Member,Sports & Travel,441.33,2024-03-09 00:00:00,8.0,0
+INV-1545,B,Member,Home & Lifestyle,679.51,2024-03-09 03:00:00,8.9,3
+INV-1546,A,Normal,Electronic accessories,289.87,2024-03-09 06:00:00,8.7,6
+INV-1547,B,Normal,Sports & Travel,320.19,2024-03-09 09:00:00,8.6,9
+INV-1548,A,Member,Fashion accessories,793.21,2024-03-09 12:00:00,5.1,12
+INV-1549,C,Member,Electronic accessories,457.49,2024-03-09 15:00:00,4.5,15
+INV-1550,A,Member,Electronic accessories,802.41,2024-03-09 18:00:00,8.2,18
+INV-1551,A,Member,Health & Beauty,825.97,2024-03-09 21:00:00,6.2,21
+INV-1552,A,Normal,Food & beverages,860.41,2024-03-10 00:00:00,6.6,0
+INV-1553,A,Member,Sports & Travel,918.3,2024-03-10 03:00:00,4.2,3
+INV-1554,A,Normal,Electronic accessories,442.37,2024-03-10 06:00:00,5.6,6
+INV-1555,B,Normal,Health & Beauty,332.49,2024-03-10 09:00:00,4.2,9
+INV-1556,A,Normal,Fashion accessories,590.55,2024-03-10 12:00:00,9.3,12
+INV-1557,A,Member,Home & Lifestyle,383.75,2024-03-10 15:00:00,5.5,15
+INV-1558,C,Member,Sports & Travel,609.05,2024-03-10 18:00:00,7.3,18
+INV-1559,A,Member,Electronic accessories,711.47,2024-03-10 21:00:00,4.2,21
+INV-1560,C,Member,Food & beverages,694.64,2024-03-11 00:00:00,8.0,0
+INV-1561,B,Normal,Health & Beauty,387.06,2024-03-11 03:00:00,5.9,3
+INV-1562,A,Member,Electronic accessories,183.52,2024-03-11 06:00:00,9.4,6
+INV-1563,C,Member,Food & beverages,441.92,2024-03-11 09:00:00,9.3,9
+INV-1564,C,Normal,Electronic accessories,159.74,2024-03-11 12:00:00,6.0,12
+INV-1565,B,Member,Sports & Travel,892.3,2024-03-11 15:00:00,9.4,15
+INV-1566,A,Normal,Sports & Travel,358.96,2024-03-11 18:00:00,10.0,18
+INV-1567,A,Normal,Sports & Travel,171.37,2024-03-11 21:00:00,9.0,21
+INV-1568,C,Normal,Fashion accessories,44.94,2024-03-12 00:00:00,9.1,0
+INV-1569,A,Normal,Fashion accessories,652.91,2024-03-12 03:00:00,5.5,3
+INV-1570,C,Normal,Health & Beauty,644.16,2024-03-12 06:00:00,7.5,6
+INV-1571,A,Normal,Sports & Travel,353.79,2024-03-12 09:00:00,4.4,9
+INV-1572,C,Normal,Food & beverages,90.28,2024-03-12 12:00:00,4.6,12
+INV-1573,A,Normal,Electronic accessories,421.44,2024-03-12 15:00:00,10.0,15
+INV-1574,B,Member,Home & Lifestyle,324.99,2024-03-12 18:00:00,6.0,18
+INV-1575,A,Member,Food & beverages,683.58,2024-03-12 21:00:00,8.5,21
+INV-1576,A,Member,Fashion accessories,613.66,2024-03-13 00:00:00,8.8,0
+INV-1577,B,Member,Fashion accessories,377.3,2024-03-13 03:00:00,9.1,3
+INV-1578,A,Normal,Food & beverages,233.53,2024-03-13 06:00:00,10.0,6
+INV-1579,B,Member,Fashion accessories,988.28,2024-03-13 09:00:00,5.4,9
+INV-1580,A,Normal,Sports & Travel,464.92,2024-03-13 12:00:00,4.2,12
+INV-1581,C,Member,Health & Beauty,694.51,2024-03-13 15:00:00,6.5,15
+INV-1582,C,Member,Electronic accessories,157.74,2024-03-13 18:00:00,4.8,18
+INV-1583,A,Member,Health & Beauty,495.88,2024-03-13 21:00:00,4.1,21
+INV-1584,A,Normal,Electronic accessories,46.99,2024-03-14 00:00:00,6.2,0
+INV-1585,A,Member,Electronic accessories,515.35,2024-03-14 03:00:00,8.7,3
+INV-1586,C,Normal,Health & Beauty,964.74,2024-03-14 06:00:00,7.4,6
+INV-1587,A,Normal,Food & beverages,396.52,2024-03-14 09:00:00,5.9,9
+INV-1588,C,Member,Electronic accessories,58.22,2024-03-14 12:00:00,7.9,12
+INV-1589,B,Member,Health & Beauty,50.34,2024-03-14 15:00:00,5.4,15
+INV-1590,C,Member,Electronic accessories,400.23,2024-03-14 18:00:00,4.1,18
+INV-1591,C,Normal,Home & Lifestyle,176.82,2024-03-14 21:00:00,8.6,21
+INV-1592,B,Member,Food & beverages,42.89,2024-03-15 00:00:00,7.7,0
+INV-1593,C,Normal,Sports & Travel,761.09,2024-03-15 03:00:00,8.6,3
+INV-1594,A,Normal,Electronic accessories,469.35,2024-03-15 06:00:00,4.2,6
+INV-1595,A,Member,Home & Lifestyle,303.46,2024-03-15 09:00:00,9.0,9
+INV-1596,C,Member,Sports & Travel,902.08,2024-03-15 12:00:00,7.7,12
+INV-1597,A,Normal,Sports & Travel,133.82,2024-03-15 15:00:00,7.4,15
+INV-1598,C,Normal,Electronic accessories,956.8,2024-03-15 18:00:00,7.7,18
+INV-1599,A,Normal,Health & Beauty,327.69,2024-03-15 21:00:00,9.2,21
+INV-1600,A,Member,Electronic accessories,890.64,2024-03-16 00:00:00,7.5,0
+INV-1601,C,Normal,Home & Lifestyle,610.88,2024-03-16 03:00:00,7.5,3
+INV-1602,A,Member,Sports & Travel,830.17,2024-03-16 06:00:00,9.9,6
+INV-1603,C,Normal,Electronic accessories,984.33,2024-03-16 09:00:00,8.5,9
+INV-1604,A,Normal,Health & Beauty,302.64,2024-03-16 12:00:00,6.7,12
+INV-1605,A,Member,Electronic accessories,961.91,2024-03-16 15:00:00,8.2,15
+INV-1606,B,Normal,Food & beverages,401.69,2024-03-16 18:00:00,6.3,18
+INV-1607,B,Member,Health & Beauty,397.8,2024-03-16 21:00:00,5.4,21
+INV-1608,C,Member,Home & Lifestyle,353.58,2024-03-17 00:00:00,7.6,0
+INV-1609,B,Normal,Sports & Travel,550.58,2024-03-17 03:00:00,9.6,3
+INV-1610,C,Member,Electronic accessories,171.06,2024-03-17 06:00:00,9.6,6
+INV-1611,B,Member,Health & Beauty,562.64,2024-03-17 09:00:00,6.1,9
+INV-1612,A,Normal,Food & beverages,550.87,2024-03-17 12:00:00,7.2,12
+INV-1613,C,Member,Health & Beauty,766.66,2024-03-17 15:00:00,5.3,15
+INV-1614,C,Member,Fashion accessories,836.98,2024-03-17 18:00:00,10.0,18
+INV-1615,A,Member,Food & beverages,451.63,2024-03-17 21:00:00,9.9,21
+INV-1616,C,Normal,Home & Lifestyle,316.29,2024-03-18 00:00:00,7.9,0
+INV-1617,C,Member,Sports & Travel,274.15,2024-03-18 03:00:00,8.8,3
+INV-1618,B,Normal,Home & Lifestyle,210.73,2024-03-18 06:00:00,8.3,6
+INV-1619,C,Normal,Electronic accessories,76.49,2024-03-18 09:00:00,7.6,9
+INV-1620,A,Member,Health & Beauty,355.6,2024-03-18 12:00:00,4.3,12
+INV-1621,B,Member,Fashion accessories,284.84,2024-03-18 15:00:00,6.7,15
+INV-1622,B,Member,Food & beverages,967.09,2024-03-18 18:00:00,8.0,18
+INV-1623,A,Normal,Food & beverages,566.55,2024-03-18 21:00:00,8.1,21
+INV-1624,A,Member,Health & Beauty,360.33,2024-03-19 00:00:00,6.2,0
+INV-1625,B,Member,Fashion accessories,588.86,2024-03-19 03:00:00,9.7,3
+INV-1626,C,Member,Health & Beauty,156.41,2024-03-19 06:00:00,5.0,6
+INV-1627,B,Member,Electronic accessories,455.16,2024-03-19 09:00:00,7.0,9
+INV-1628,A,Member,Home & Lifestyle,633.71,2024-03-19 12:00:00,8.1,12
+INV-1629,B,Normal,Food & beverages,499.12,2024-03-19 15:00:00,8.2,15
+INV-1630,A,Normal,Electronic accessories,413.74,2024-03-19 18:00:00,7.9,18
+INV-1631,B,Member,Home & Lifestyle,993.97,2024-03-19 21:00:00,5.7,21
+INV-1632,C,Member,Electronic accessories,882.71,2024-03-20 00:00:00,4.9,0
+INV-1633,B,Member,Fashion accessories,630.94,2024-03-20 03:00:00,7.8,3
+INV-1634,B,Member,Food & beverages,577.99,2024-03-20 06:00:00,7.6,6
+INV-1635,A,Normal,Health & Beauty,628.25,2024-03-20 09:00:00,5.1,9
+INV-1636,A,Member,Health & Beauty,217.29,2024-03-20 12:00:00,8.2,12
+INV-1637,A,Normal,Home & Lifestyle,407.23,2024-03-20 15:00:00,6.7,15
+INV-1638,B,Normal,Sports & Travel,58.67,2024-03-20 18:00:00,8.0,18
+INV-1639,C,Member,Fashion accessories,486.04,2024-03-20 21:00:00,9.0,21
+INV-1640,A,Normal,Home & Lifestyle,552.16,2024-03-21 00:00:00,5.0,0
+INV-1641,A,Normal,Sports & Travel,243.19,2024-03-21 03:00:00,4.1,3
+INV-1642,B,Normal,Electronic accessories,964.75,2024-03-21 06:00:00,8.7,6
+INV-1643,A,Normal,Fashion accessories,911.27,2024-03-21 09:00:00,7.7,9
+INV-1644,C,Member,Electronic accessories,727.7,2024-03-21 12:00:00,8.2,12
+INV-1645,C,Member,Food & beverages,542.72,2024-03-21 15:00:00,9.0,15
+INV-1646,A,Normal,Fashion accessories,872.57,2024-03-21 18:00:00,8.8,18
+INV-1647,A,Member,Sports & Travel,148.04,2024-03-21 21:00:00,9.8,21
+INV-1648,B,Member,Food & beverages,794.7,2024-03-22 00:00:00,7.2,0
+INV-1649,C,Member,Health & Beauty,142.32,2024-03-22 03:00:00,6.9,3
+INV-1650,C,Member,Sports & Travel,798.33,2024-03-22 06:00:00,6.4,6
+INV-1651,A,Member,Home & Lifestyle,290.25,2024-03-22 09:00:00,4.9,9
+INV-1652,B,Normal,Health & Beauty,879.55,2024-03-22 12:00:00,7.4,12
+INV-1653,C,Member,Health & Beauty,945.16,2024-03-22 15:00:00,5.7,15
+INV-1654,C,Member,Home & Lifestyle,165.82,2024-03-22 18:00:00,9.5,18
+INV-1655,B,Member,Fashion accessories,473.42,2024-03-22 21:00:00,7.5,21
+INV-1656,B,Member,Health & Beauty,981.37,2024-03-23 00:00:00,7.6,0
+INV-1657,C,Normal,Sports & Travel,493.74,2024-03-23 03:00:00,6.1,3
+INV-1658,C,Normal,Food & beverages,866.28,2024-03-23 06:00:00,4.3,6
+INV-1659,B,Normal,Health & Beauty,596.96,2024-03-23 09:00:00,4.2,9
+INV-1660,C,Normal,Sports & Travel,387.82,2024-03-23 12:00:00,6.5,12
+INV-1661,A,Member,Electronic accessories,300.07,2024-03-23 15:00:00,4.5,15
+INV-1662,A,Normal,Sports & Travel,219.16,2024-03-23 18:00:00,7.6,18
+INV-1663,B,Member,Food & beverages,766.56,2024-03-23 21:00:00,9.3,21
+INV-1664,B,Member,Sports & Travel,398.81,2024-03-24 00:00:00,9.3,0
+INV-1665,B,Member,Home & Lifestyle,521.05,2024-03-24 03:00:00,8.0,3
+INV-1666,A,Member,Food & beverages,502.48,2024-03-24 06:00:00,5.3,6
+INV-1667,C,Member,Fashion accessories,585.73,2024-03-24 09:00:00,9.2,9
+INV-1668,A,Normal,Electronic accessories,868.27,2024-03-24 12:00:00,9.3,12
+INV-1669,C,Normal,Home & Lifestyle,981.12,2024-03-24 15:00:00,5.2,15
+INV-1670,A,Normal,Fashion accessories,419.43,2024-03-24 18:00:00,8.4,18
+INV-1671,C,Normal,Sports & Travel,830.97,2024-03-24 21:00:00,5.7,21
+INV-1672,A,Member,Food & beverages,769.24,2024-03-25 00:00:00,8.8,0
+INV-1673,B,Normal,Electronic accessories,582.06,2024-03-25 03:00:00,10.0,3
+INV-1674,A,Member,Home & Lifestyle,956.93,2024-03-25 06:00:00,4.2,6
+INV-1675,C,Normal,Fashion accessories,216.47,2024-03-25 09:00:00,9.4,9
+INV-1676,A,Member,Fashion accessories,127.08,2024-03-25 12:00:00,7.7,12
+INV-1677,A,Member,Electronic accessories,856.88,2024-03-25 15:00:00,9.8,15
+INV-1678,A,Normal,Sports & Travel,450.37,2024-03-25 18:00:00,6.8,18
+INV-1679,B,Member,Electronic accessories,850.03,2024-03-25 21:00:00,9.1,21
+INV-1680,A,Member,Fashion accessories,895.23,2024-03-26 00:00:00,4.4,0
+INV-1681,B,Normal,Health & Beauty,81.21,2024-03-26 03:00:00,6.0,3
+INV-1682,B,Member,Home & Lifestyle,885.8,2024-03-26 06:00:00,4.4,6
+INV-1683,A,Normal,Electronic accessories,459.35,2024-03-26 09:00:00,9.9,9
+INV-1684,A,Normal,Fashion accessories,520.22,2024-03-26 12:00:00,8.9,12
+INV-1685,A,Normal,Sports & Travel,634.06,2024-03-26 15:00:00,9.1,15
+INV-1686,C,Member,Fashion accessories,927.85,2024-03-26 18:00:00,9.6,18
+INV-1687,A,Member,Sports & Travel,38.73,2024-03-26 21:00:00,4.5,21
+INV-1688,B,Member,Electronic accessories,487.31,2024-03-27 00:00:00,6.3,0
+INV-1689,A,Normal,Sports & Travel,693.97,2024-03-27 03:00:00,4.4,3
+INV-1690,C,Member,Food & beverages,728.25,2024-03-27 06:00:00,5.3,6
+INV-1691,A,Normal,Food & beverages,698.68,2024-03-27 09:00:00,5.4,9
+INV-1692,C,Normal,Food & beverages,151.75,2024-03-27 12:00:00,6.8,12
+INV-1693,C,Member,Health & Beauty,313.41,2024-03-27 15:00:00,5.6,15
+INV-1694,A,Normal,Electronic accessories,371.54,2024-03-27 18:00:00,4.6,18
+INV-1695,B,Member,Fashion accessories,808.35,2024-03-27 21:00:00,5.0,21
+INV-1696,C,Member,Fashion accessories,293.18,2024-03-28 00:00:00,4.9,0
+INV-1697,A,Member,Health & Beauty,226.49,2024-03-28 03:00:00,9.8,3
+INV-1698,A,Member,Sports & Travel,958.3,2024-03-28 06:00:00,8.6,6
+INV-1699,B,Member,Health & Beauty,28.69,2024-03-28 09:00:00,9.8,9
+INV-1700,C,Normal,Sports & Travel,997.86,2024-03-28 12:00:00,6.6,12
+INV-1701,C,Normal,Sports & Travel,683.28,2024-03-28 15:00:00,5.7,15
+INV-1702,A,Normal,Home & Lifestyle,831.9,2024-03-28 18:00:00,8.8,18
+INV-1703,A,Member,Fashion accessories,308.73,2024-03-28 21:00:00,6.0,21
+INV-1704,B,Member,Food & beverages,34.03,2024-03-29 00:00:00,5.8,0
+INV-1705,B,Member,Sports & Travel,743.11,2024-03-29 03:00:00,5.4,3
+INV-1706,C,Normal,Home & Lifestyle,837.46,2024-03-29 06:00:00,4.8,6
+INV-1707,C,Member,Fashion accessories,745.67,2024-03-29 09:00:00,5.5,9
+INV-1708,A,Normal,Food & beverages,159.99,2024-03-29 12:00:00,6.1,12
+INV-1709,C,Normal,Sports & Travel,758.36,2024-03-29 15:00:00,8.0,15
+INV-1710,B,Member,Sports & Travel,773.54,2024-03-29 18:00:00,4.4,18
+INV-1711,B,Member,Health & Beauty,665.37,2024-03-29 21:00:00,5.3,21
+INV-1712,A,Normal,Health & Beauty,770.79,2024-03-30 00:00:00,8.9,0
+INV-1713,B,Member,Fashion accessories,849.0,2024-03-30 03:00:00,4.9,3
+INV-1714,B,Normal,Food & beverages,621.33,2024-03-30 06:00:00,6.1,6
+INV-1715,B,Member,Sports & Travel,106.83,2024-03-30 09:00:00,9.2,9
+INV-1716,B,Member,Fashion accessories,497.88,2024-03-30 12:00:00,4.9,12
+INV-1717,A,Normal,Fashion accessories,96.1,2024-03-30 15:00:00,4.5,15
+INV-1718,A,Member,Electronic accessories,419.39,2024-03-30 18:00:00,6.9,18
+INV-1719,C,Normal,Health & Beauty,418.96,2024-03-30 21:00:00,5.8,21
+INV-1720,B,Member,Food & beverages,84.69,2024-03-31 00:00:00,7.4,0
+INV-1721,C,Normal,Sports & Travel,361.84,2024-03-31 03:00:00,8.8,3
+INV-1722,A,Normal,Fashion accessories,128.78,2024-03-31 06:00:00,4.8,6
+INV-1723,A,Member,Sports & Travel,812.07,2024-03-31 09:00:00,7.5,9
+INV-1724,A,Normal,Electronic accessories,948.73,2024-03-31 12:00:00,7.0,12
+INV-1725,A,Member,Food & beverages,90.87,2024-03-31 15:00:00,4.9,15
+INV-1726,A,Member,Fashion accessories,956.01,2024-03-31 18:00:00,7.7,18
+INV-1727,A,Member,Sports & Travel,532.13,2024-03-31 21:00:00,5.6,21
+INV-1728,A,Normal,Health & Beauty,313.57,2024-04-01 00:00:00,6.9,0
+INV-1729,B,Normal,Electronic accessories,95.32,2024-04-01 03:00:00,4.5,3
+INV-1730,C,Member,Food & beverages,510.61,2024-04-01 06:00:00,6.8,6
+INV-1731,A,Member,Electronic accessories,798.63,2024-04-01 09:00:00,5.8,9
+INV-1732,B,Normal,Health & Beauty,712.94,2024-04-01 12:00:00,8.9,12
+INV-1733,B,Member,Food & beverages,69.22,2024-04-01 15:00:00,4.3,15
+INV-1734,C,Member,Electronic accessories,91.44,2024-04-01 18:00:00,6.5,18
+INV-1735,A,Normal,Home & Lifestyle,414.82,2024-04-01 21:00:00,6.8,21
+INV-1736,C,Member,Health & Beauty,309.38,2024-04-02 00:00:00,8.4,0
+INV-1737,A,Normal,Health & Beauty,247.74,2024-04-02 03:00:00,7.4,3
+INV-1738,B,Member,Health & Beauty,295.38,2024-04-02 06:00:00,8.0,6
+INV-1739,B,Normal,Home & Lifestyle,807.41,2024-04-02 09:00:00,8.7,9
+INV-1740,B,Member,Home & Lifestyle,930.64,2024-04-02 12:00:00,9.2,12
+INV-1741,B,Member,Sports & Travel,417.0,2024-04-02 15:00:00,5.9,15
+INV-1742,C,Normal,Fashion accessories,907.99,2024-04-02 18:00:00,7.2,18
+INV-1743,A,Member,Electronic accessories,335.07,2024-04-02 21:00:00,9.0,21
+INV-1744,A,Normal,Sports & Travel,486.91,2024-04-03 00:00:00,9.9,0
+INV-1745,C,Member,Electronic accessories,241.51,2024-04-03 03:00:00,9.3,3
+INV-1746,A,Normal,Fashion accessories,647.67,2024-04-03 06:00:00,6.2,6
+INV-1747,B,Normal,Home & Lifestyle,979.4,2024-04-03 09:00:00,5.2,9
+INV-1748,A,Normal,Fashion accessories,611.42,2024-04-03 12:00:00,6.9,12
+INV-1749,B,Normal,Home & Lifestyle,370.66,2024-04-03 15:00:00,8.4,15
+INV-1750,C,Member,Fashion accessories,654.86,2024-04-03 18:00:00,7.0,18
+INV-1751,A,Member,Sports & Travel,140.46,2024-04-03 21:00:00,6.9,21
+INV-1752,C,Normal,Food & beverages,890.89,2024-04-04 00:00:00,9.0,0
+INV-1753,A,Normal,Sports & Travel,513.02,2024-04-04 03:00:00,6.2,3
+INV-1754,B,Normal,Electronic accessories,460.36,2024-04-04 06:00:00,9.2,6
+INV-1755,C,Member,Sports & Travel,594.15,2024-04-04 09:00:00,6.4,9
+INV-1756,A,Member,Health & Beauty,632.29,2024-04-04 12:00:00,6.0,12
+INV-1757,B,Member,Electronic accessories,90.34,2024-04-04 15:00:00,6.7,15
+INV-1758,C,Member,Fashion accessories,688.96,2024-04-04 18:00:00,8.6,18
+INV-1759,C,Normal,Electronic accessories,257.09,2024-04-04 21:00:00,4.8,21
+INV-1760,A,Normal,Food & beverages,719.67,2024-04-05 00:00:00,5.2,0
+INV-1761,A,Normal,Home & Lifestyle,826.08,2024-04-05 03:00:00,9.7,3
+INV-1762,A,Member,Fashion accessories,807.88,2024-04-05 06:00:00,5.1,6
+INV-1763,B,Member,Electronic accessories,561.45,2024-04-05 09:00:00,7.4,9
+INV-1764,A,Member,Fashion accessories,529.77,2024-04-05 12:00:00,7.5,12
+INV-1765,C,Normal,Fashion accessories,160.02,2024-04-05 15:00:00,6.9,15
+INV-1766,C,Normal,Fashion accessories,779.84,2024-04-05 18:00:00,7.9,18
+INV-1767,A,Member,Home & Lifestyle,285.98,2024-04-05 21:00:00,5.4,21
+INV-1768,A,Normal,Sports & Travel,506.76,2024-04-06 00:00:00,7.3,0
+INV-1769,C,Member,Fashion accessories,298.59,2024-04-06 03:00:00,6.2,3
+INV-1770,B,Member,Health & Beauty,151.15,2024-04-06 06:00:00,8.0,6
+INV-1771,A,Normal,Food & beverages,636.97,2024-04-06 09:00:00,4.8,9
+INV-1772,A,Member,Home & Lifestyle,73.25,2024-04-06 12:00:00,7.4,12
+INV-1773,C,Normal,Electronic accessories,753.67,2024-04-06 15:00:00,5.1,15
+INV-1774,A,Member,Home & Lifestyle,331.24,2024-04-06 18:00:00,5.7,18
+INV-1775,B,Normal,Electronic accessories,20.13,2024-04-06 21:00:00,5.3,21
+INV-1776,C,Normal,Home & Lifestyle,520.91,2024-04-07 00:00:00,5.1,0
+INV-1777,A,Normal,Electronic accessories,65.91,2024-04-07 03:00:00,9.0,3
+INV-1778,C,Member,Fashion accessories,290.65,2024-04-07 06:00:00,5.7,6
+INV-1779,A,Member,Sports & Travel,712.84,2024-04-07 09:00:00,9.6,9
+INV-1780,A,Normal,Electronic accessories,81.44,2024-04-07 12:00:00,9.8,12
+INV-1781,A,Normal,Electronic accessories,842.55,2024-04-07 15:00:00,7.4,15
+INV-1782,B,Member,Health & Beauty,23.74,2024-04-07 18:00:00,4.9,18
+INV-1783,B,Member,Electronic accessories,261.89,2024-04-07 21:00:00,6.2,21
+INV-1784,C,Member,Health & Beauty,746.09,2024-04-08 00:00:00,8.8,0
+INV-1785,A,Normal,Food & beverages,329.94,2024-04-08 03:00:00,6.2,3
+INV-1786,A,Member,Fashion accessories,119.85,2024-04-08 06:00:00,4.5,6
+INV-1787,B,Member,Health & Beauty,373.03,2024-04-08 09:00:00,7.3,9
+INV-1788,A,Normal,Sports & Travel,284.99,2024-04-08 12:00:00,9.1,12
+INV-1789,B,Member,Fashion accessories,845.86,2024-04-08 15:00:00,8.8,15
+INV-1790,A,Member,Health & Beauty,327.08,2024-04-08 18:00:00,5.1,18
+INV-1791,C,Member,Fashion accessories,793.15,2024-04-08 21:00:00,8.0,21
+INV-1792,A,Normal,Fashion accessories,894.03,2024-04-09 00:00:00,5.3,0
+INV-1793,A,Normal,Fashion accessories,445.14,2024-04-09 03:00:00,5.3,3
+INV-1794,B,Normal,Food & beverages,911.74,2024-04-09 06:00:00,9.2,6
+INV-1795,A,Normal,Sports & Travel,389.77,2024-04-09 09:00:00,5.5,9
+INV-1796,A,Normal,Home & Lifestyle,964.8,2024-04-09 12:00:00,5.6,12
+INV-1797,B,Normal,Home & Lifestyle,107.5,2024-04-09 15:00:00,4.0,15
+INV-1798,C,Normal,Health & Beauty,693.28,2024-04-09 18:00:00,9.2,18
+INV-1799,C,Member,Fashion accessories,503.94,2024-04-09 21:00:00,8.8,21
+INV-1800,B,Member,Health & Beauty,399.9,2024-04-10 00:00:00,7.8,0
+INV-1801,B,Normal,Food & beverages,640.06,2024-04-10 03:00:00,8.5,3
+INV-1802,B,Member,Food & beverages,709.78,2024-04-10 06:00:00,4.9,6
+INV-1803,B,Member,Electronic accessories,24.28,2024-04-10 09:00:00,6.7,9
+INV-1804,B,Normal,Food & beverages,183.61,2024-04-10 12:00:00,6.1,12
+INV-1805,C,Member,Electronic accessories,718.79,2024-04-10 15:00:00,4.6,15
+INV-1806,C,Member,Sports & Travel,673.06,2024-04-10 18:00:00,6.9,18
+INV-1807,B,Member,Health & Beauty,966.73,2024-04-10 21:00:00,9.5,21
+INV-1808,A,Member,Sports & Travel,765.82,2024-04-11 00:00:00,4.2,0
+INV-1809,B,Member,Food & beverages,951.76,2024-04-11 03:00:00,5.7,3
+INV-1810,A,Normal,Sports & Travel,708.49,2024-04-11 06:00:00,5.2,6
+INV-1811,B,Normal,Sports & Travel,312.09,2024-04-11 09:00:00,5.4,9
+INV-1812,B,Normal,Sports & Travel,123.26,2024-04-11 12:00:00,9.5,12
+INV-1813,C,Member,Food & beverages,786.19,2024-04-11 15:00:00,6.8,15
+INV-1814,A,Normal,Fashion accessories,651.27,2024-04-11 18:00:00,6.8,18
+INV-1815,A,Member,Sports & Travel,67.22,2024-04-11 21:00:00,8.6,21
+INV-1816,C,Member,Electronic accessories,372.85,2024-04-12 00:00:00,4.9,0
+INV-1817,C,Member,Food & beverages,957.66,2024-04-12 03:00:00,6.9,3
+INV-1818,C,Member,Sports & Travel,510.39,2024-04-12 06:00:00,6.6,6
+INV-1819,C,Normal,Fashion accessories,444.07,2024-04-12 09:00:00,7.6,9
+INV-1820,A,Normal,Food & beverages,468.55,2024-04-12 12:00:00,10.0,12
+INV-1821,A,Member,Home & Lifestyle,224.71,2024-04-12 15:00:00,8.6,15
+INV-1822,B,Normal,Fashion accessories,381.33,2024-04-12 18:00:00,6.4,18
+INV-1823,B,Member,Electronic accessories,382.42,2024-04-12 21:00:00,9.0,21
+INV-1824,C,Normal,Sports & Travel,71.31,2024-04-13 00:00:00,5.0,0
+INV-1825,C,Normal,Home & Lifestyle,772.22,2024-04-13 03:00:00,4.2,3
+INV-1826,C,Member,Home & Lifestyle,428.17,2024-04-13 06:00:00,5.2,6
+INV-1827,B,Normal,Food & beverages,825.74,2024-04-13 09:00:00,6.0,9
+INV-1828,B,Member,Home & Lifestyle,853.34,2024-04-13 12:00:00,7.1,12
+INV-1829,B,Normal,Electronic accessories,227.75,2024-04-13 15:00:00,7.7,15
+INV-1830,B,Member,Electronic accessories,664.21,2024-04-13 18:00:00,9.5,18
+INV-1831,B,Member,Health & Beauty,482.84,2024-04-13 21:00:00,7.1,21
+INV-1832,B,Normal,Electronic accessories,882.55,2024-04-14 00:00:00,7.0,0
+INV-1833,B,Normal,Fashion accessories,231.43,2024-04-14 03:00:00,4.3,3
+INV-1834,C,Member,Home & Lifestyle,684.26,2024-04-14 06:00:00,4.2,6
+INV-1835,C,Normal,Electronic accessories,615.6,2024-04-14 09:00:00,7.3,9
+INV-1836,C,Normal,Food & beverages,309.4,2024-04-14 12:00:00,6.6,12
+INV-1837,C,Member,Health & Beauty,153.87,2024-04-14 15:00:00,9.0,15
+INV-1838,B,Member,Home & Lifestyle,658.61,2024-04-14 18:00:00,5.0,18
+INV-1839,A,Normal,Health & Beauty,743.83,2024-04-14 21:00:00,4.1,21
+INV-1840,B,Member,Home & Lifestyle,329.31,2024-04-15 00:00:00,6.7,0
+INV-1841,A,Member,Food & beverages,651.94,2024-04-15 03:00:00,5.4,3
+INV-1842,C,Member,Health & Beauty,407.23,2024-04-15 06:00:00,4.3,6
+INV-1843,B,Normal,Sports & Travel,718.94,2024-04-15 09:00:00,8.3,9
+INV-1844,C,Normal,Fashion accessories,215.23,2024-04-15 12:00:00,4.7,12
+INV-1845,B,Member,Fashion accessories,892.41,2024-04-15 15:00:00,7.6,15
+INV-1846,C,Normal,Home & Lifestyle,301.66,2024-04-15 18:00:00,5.7,18
+INV-1847,A,Member,Sports & Travel,380.43,2024-04-15 21:00:00,5.0,21
+INV-1848,A,Normal,Health & Beauty,76.93,2024-04-16 00:00:00,6.3,0
+INV-1849,A,Member,Sports & Travel,129.28,2024-04-16 03:00:00,8.8,3
+INV-1850,B,Member,Sports & Travel,525.54,2024-04-16 06:00:00,6.4,6
+INV-1851,A,Normal,Health & Beauty,282.24,2024-04-16 09:00:00,8.5,9
+INV-1852,B,Member,Food & beverages,838.77,2024-04-16 12:00:00,4.8,12
+INV-1853,A,Normal,Sports & Travel,34.4,2024-04-16 15:00:00,8.6,15
+INV-1854,A,Normal,Sports & Travel,391.51,2024-04-16 18:00:00,5.4,18
+INV-1855,B,Member,Food & beverages,350.6,2024-04-16 21:00:00,8.1,21
+INV-1856,B,Member,Sports & Travel,38.94,2024-04-17 00:00:00,7.4,0
+INV-1857,A,Normal,Sports & Travel,141.88,2024-04-17 03:00:00,9.6,3
+INV-1858,B,Member,Sports & Travel,425.37,2024-04-17 06:00:00,6.3,6
+INV-1859,A,Member,Fashion accessories,503.01,2024-04-17 09:00:00,4.4,9
+INV-1860,B,Member,Electronic accessories,416.2,2024-04-17 12:00:00,4.1,12
+INV-1861,C,Member,Food & beverages,540.32,2024-04-17 15:00:00,9.0,15
+INV-1862,C,Member,Sports & Travel,603.23,2024-04-17 18:00:00,7.1,18
+INV-1863,C,Normal,Fashion accessories,29.73,2024-04-17 21:00:00,8.7,21
+INV-1864,C,Normal,Food & beverages,474.81,2024-04-18 00:00:00,5.4,0
+INV-1865,C,Member,Home & Lifestyle,964.23,2024-04-18 03:00:00,6.1,3
+INV-1866,A,Member,Home & Lifestyle,528.65,2024-04-18 06:00:00,4.2,6
+INV-1867,C,Member,Sports & Travel,683.99,2024-04-18 09:00:00,9.8,9
+INV-1868,C,Normal,Fashion accessories,325.63,2024-04-18 12:00:00,8.0,12
+INV-1869,C,Member,Fashion accessories,778.51,2024-04-18 15:00:00,9.6,15
+INV-1870,C,Normal,Food & beverages,777.46,2024-04-18 18:00:00,5.6,18
+INV-1871,B,Normal,Food & beverages,530.87,2024-04-18 21:00:00,7.7,21
+INV-1872,A,Normal,Fashion accessories,976.49,2024-04-19 00:00:00,8.1,0
+INV-1873,C,Member,Food & beverages,143.04,2024-04-19 03:00:00,5.9,3
+INV-1874,C,Normal,Fashion accessories,36.61,2024-04-19 06:00:00,9.1,6
+INV-1875,C,Member,Electronic accessories,774.76,2024-04-19 09:00:00,9.7,9
+INV-1876,A,Normal,Fashion accessories,811.01,2024-04-19 12:00:00,9.3,12
+INV-1877,B,Member,Home & Lifestyle,137.8,2024-04-19 15:00:00,8.4,15
+INV-1878,A,Normal,Food & beverages,280.27,2024-04-19 18:00:00,5.7,18
+INV-1879,B,Member,Fashion accessories,37.2,2024-04-19 21:00:00,5.7,21
+INV-1880,C,Normal,Fashion accessories,307.44,2024-04-20 00:00:00,9.8,0
+INV-1881,C,Member,Food & beverages,777.68,2024-04-20 03:00:00,4.1,3
+INV-1882,A,Member,Electronic accessories,527.6,2024-04-20 06:00:00,8.3,6
+INV-1883,A,Member,Electronic accessories,361.13,2024-04-20 09:00:00,8.2,9
+INV-1884,B,Member,Food & beverages,384.3,2024-04-20 12:00:00,7.7,12
+INV-1885,B,Normal,Health & Beauty,21.33,2024-04-20 15:00:00,9.9,15
+INV-1886,A,Normal,Food & beverages,313.8,2024-04-20 18:00:00,5.9,18
+INV-1887,B,Member,Food & beverages,653.53,2024-04-20 21:00:00,6.0,21
+INV-1888,A,Normal,Electronic accessories,974.71,2024-04-21 00:00:00,4.5,0
+INV-1889,B,Member,Electronic accessories,850.12,2024-04-21 03:00:00,6.7,3
+INV-1890,A,Member,Food & beverages,43.12,2024-04-21 06:00:00,5.6,6
+INV-1891,A,Normal,Food & beverages,900.59,2024-04-21 09:00:00,6.1,9
+INV-1892,A,Member,Food & beverages,787.53,2024-04-21 12:00:00,9.0,12
+INV-1893,B,Member,Electronic accessories,784.77,2024-04-21 15:00:00,9.6,15
+INV-1894,B,Normal,Food & beverages,468.84,2024-04-21 18:00:00,5.1,18
+INV-1895,B,Member,Food & beverages,410.05,2024-04-21 21:00:00,6.2,21
+INV-1896,A,Member,Sports & Travel,316.86,2024-04-22 00:00:00,9.6,0
+INV-1897,B,Member,Health & Beauty,84.38,2024-04-22 03:00:00,4.4,3
+INV-1898,B,Member,Home & Lifestyle,243.67,2024-04-22 06:00:00,4.6,6
+INV-1899,A,Normal,Health & Beauty,261.67,2024-04-22 09:00:00,5.0,9
+INV-1900,C,Normal,Sports & Travel,494.4,2024-04-22 12:00:00,7.6,12
+INV-1901,A,Normal,Home & Lifestyle,752.5,2024-04-22 15:00:00,4.9,15
+INV-1902,B,Member,Food & beverages,484.33,2024-04-22 18:00:00,9.8,18
+INV-1903,A,Member,Sports & Travel,76.69,2024-04-22 21:00:00,6.7,21
+INV-1904,C,Normal,Food & beverages,958.63,2024-04-23 00:00:00,7.0,0
+INV-1905,A,Member,Electronic accessories,943.87,2024-04-23 03:00:00,5.5,3
+INV-1906,B,Member,Fashion accessories,789.49,2024-04-23 06:00:00,6.8,6
+INV-1907,C,Member,Sports & Travel,991.5,2024-04-23 09:00:00,8.0,9
+INV-1908,B,Member,Electronic accessories,553.59,2024-04-23 12:00:00,8.5,12
+INV-1909,C,Normal,Sports & Travel,963.51,2024-04-23 15:00:00,8.5,15
+INV-1910,C,Normal,Sports & Travel,94.09,2024-04-23 18:00:00,7.5,18
+INV-1911,A,Normal,Electronic accessories,378.37,2024-04-23 21:00:00,9.4,21
+INV-1912,A,Member,Home & Lifestyle,240.87,2024-04-24 00:00:00,8.9,0
+INV-1913,B,Normal,Health & Beauty,211.92,2024-04-24 03:00:00,8.5,3
+INV-1914,A,Normal,Food & beverages,157.99,2024-04-24 06:00:00,4.3,6
+INV-1915,A,Member,Sports & Travel,629.97,2024-04-24 09:00:00,4.0,9
+INV-1916,C,Member,Food & beverages,785.7,2024-04-24 12:00:00,5.3,12
+INV-1917,A,Normal,Fashion accessories,586.73,2024-04-24 15:00:00,8.0,15
+INV-1918,C,Normal,Electronic accessories,164.02,2024-04-24 18:00:00,6.5,18
+INV-1919,C,Normal,Food & beverages,814.9,2024-04-24 21:00:00,6.4,21
+INV-1920,C,Normal,Electronic accessories,643.24,2024-04-25 00:00:00,9.3,0
+INV-1921,B,Member,Food & beverages,400.4,2024-04-25 03:00:00,9.4,3
+INV-1922,B,Normal,Health & Beauty,680.65,2024-04-25 06:00:00,9.5,6
+INV-1923,B,Normal,Health & Beauty,274.71,2024-04-25 09:00:00,5.9,9
+INV-1924,C,Member,Health & Beauty,358.29,2024-04-25 12:00:00,8.1,12
+INV-1925,B,Normal,Health & Beauty,919.14,2024-04-25 15:00:00,5.6,15
+INV-1926,B,Member,Health & Beauty,304.69,2024-04-25 18:00:00,5.1,18
+INV-1927,A,Member,Health & Beauty,480.59,2024-04-25 21:00:00,5.1,21
+INV-1928,B,Member,Electronic accessories,892.34,2024-04-26 00:00:00,6.1,0
+INV-1929,B,Normal,Sports & Travel,713.57,2024-04-26 03:00:00,6.6,3
+INV-1930,C,Normal,Food & beverages,80.96,2024-04-26 06:00:00,9.0,6
+INV-1931,C,Member,Health & Beauty,164.36,2024-04-26 09:00:00,4.7,9
+INV-1932,C,Normal,Electronic accessories,27.68,2024-04-26 12:00:00,8.4,12
+INV-1933,C,Normal,Electronic accessories,638.3,2024-04-26 15:00:00,7.2,15
+INV-1934,C,Member,Electronic accessories,458.72,2024-04-26 18:00:00,5.7,18
+INV-1935,C,Member,Sports & Travel,151.59,2024-04-26 21:00:00,7.0,21
+INV-1936,B,Normal,Food & beverages,958.78,2024-04-27 00:00:00,5.8,0
+INV-1937,C,Member,Sports & Travel,539.07,2024-04-27 03:00:00,7.6,3
+INV-1938,C,Normal,Home & Lifestyle,257.06,2024-04-27 06:00:00,6.6,6
+INV-1939,A,Normal,Electronic accessories,510.59,2024-04-27 09:00:00,5.0,9
+INV-1940,B,Normal,Home & Lifestyle,686.03,2024-04-27 12:00:00,4.7,12
+INV-1941,B,Normal,Fashion accessories,94.71,2024-04-27 15:00:00,7.3,15
+INV-1942,B,Member,Health & Beauty,289.21,2024-04-27 18:00:00,9.4,18
+INV-1943,C,Member,Health & Beauty,810.83,2024-04-27 21:00:00,6.1,21
+INV-1944,C,Member,Sports & Travel,470.47,2024-04-28 00:00:00,8.4,0
+INV-1945,C,Member,Food & beverages,555.65,2024-04-28 03:00:00,8.0,3
+INV-1946,A,Normal,Home & Lifestyle,444.16,2024-04-28 06:00:00,9.6,6
+INV-1947,C,Normal,Food & beverages,63.02,2024-04-28 09:00:00,8.9,9
+INV-1948,A,Member,Sports & Travel,182.43,2024-04-28 12:00:00,7.4,12
+INV-1949,B,Normal,Health & Beauty,456.63,2024-04-28 15:00:00,7.9,15
+INV-1950,C,Normal,Food & beverages,225.0,2024-04-28 18:00:00,9.4,18
+INV-1951,A,Normal,Food & beverages,68.98,2024-04-28 21:00:00,6.4,21
+INV-1952,A,Member,Health & Beauty,846.78,2024-04-29 00:00:00,6.0,0
+INV-1953,C,Member,Home & Lifestyle,981.57,2024-04-29 03:00:00,4.1,3
+INV-1954,B,Member,Health & Beauty,797.28,2024-04-29 06:00:00,9.0,6
+INV-1955,B,Normal,Food & beverages,856.71,2024-04-29 09:00:00,8.8,9
+INV-1956,B,Member,Home & Lifestyle,257.14,2024-04-29 12:00:00,4.6,12
+INV-1957,A,Member,Home & Lifestyle,961.41,2024-04-29 15:00:00,7.5,15
+INV-1958,A,Member,Health & Beauty,212.99,2024-04-29 18:00:00,6.8,18
+INV-1959,A,Member,Food & beverages,952.4,2024-04-29 21:00:00,4.7,21
+INV-1960,A,Member,Sports & Travel,994.92,2024-04-30 00:00:00,9.9,0
+INV-1961,B,Member,Food & beverages,717.49,2024-04-30 03:00:00,5.3,3
+INV-1962,C,Normal,Electronic accessories,981.52,2024-04-30 06:00:00,4.4,6
+INV-1963,A,Normal,Fashion accessories,578.15,2024-04-30 09:00:00,7.6,9
+INV-1964,A,Member,Sports & Travel,274.35,2024-04-30 12:00:00,8.4,12
+INV-1965,B,Member,Home & Lifestyle,448.26,2024-04-30 15:00:00,4.2,15
+INV-1966,C,Normal,Sports & Travel,601.69,2024-04-30 18:00:00,8.0,18
+INV-1967,C,Normal,Home & Lifestyle,91.62,2024-04-30 21:00:00,7.2,21
+INV-1968,B,Member,Home & Lifestyle,629.9,2024-05-01 00:00:00,4.6,0
+INV-1969,B,Member,Sports & Travel,981.55,2024-05-01 03:00:00,5.0,3
+INV-1970,C,Member,Home & Lifestyle,206.31,2024-05-01 06:00:00,7.4,6
+INV-1971,A,Member,Home & Lifestyle,796.74,2024-05-01 09:00:00,5.8,9
+INV-1972,C,Normal,Electronic accessories,909.74,2024-05-01 12:00:00,9.6,12
+INV-1973,B,Member,Food & beverages,944.83,2024-05-01 15:00:00,8.9,15
+INV-1974,A,Member,Food & beverages,960.93,2024-05-01 18:00:00,9.9,18
+INV-1975,A,Member,Fashion accessories,531.03,2024-05-01 21:00:00,5.6,21
+INV-1976,B,Member,Fashion accessories,977.76,2024-05-02 00:00:00,9.8,0
+INV-1977,B,Normal,Electronic accessories,762.16,2024-05-02 03:00:00,6.6,3
+INV-1978,B,Normal,Fashion accessories,178.44,2024-05-02 06:00:00,6.1,6
+INV-1979,C,Normal,Sports & Travel,487.36,2024-05-02 09:00:00,4.3,9
+INV-1980,C,Member,Health & Beauty,723.96,2024-05-02 12:00:00,4.3,12
+INV-1981,A,Member,Health & Beauty,262.39,2024-05-02 15:00:00,8.2,15
+INV-1982,B,Normal,Health & Beauty,647.8,2024-05-02 18:00:00,6.7,18
+INV-1983,A,Member,Electronic accessories,673.27,2024-05-02 21:00:00,5.4,21
+INV-1984,A,Member,Electronic accessories,179.45,2024-05-03 00:00:00,7.7,0
+INV-1985,A,Normal,Home & Lifestyle,573.78,2024-05-03 03:00:00,5.5,3
+INV-1986,A,Normal,Health & Beauty,776.19,2024-05-03 06:00:00,7.5,6
+INV-1987,B,Normal,Sports & Travel,508.92,2024-05-03 09:00:00,6.2,9
+INV-1988,A,Normal,Fashion accessories,31.86,2024-05-03 12:00:00,8.9,12
+INV-1989,B,Member,Sports & Travel,28.86,2024-05-03 15:00:00,8.9,15
+INV-1990,B,Member,Fashion accessories,369.89,2024-05-03 18:00:00,6.9,18
+INV-1991,C,Normal,Health & Beauty,927.67,2024-05-03 21:00:00,6.1,21
+INV-1992,B,Member,Health & Beauty,244.1,2024-05-04 00:00:00,6.2,0
+INV-1993,C,Normal,Health & Beauty,641.68,2024-05-04 03:00:00,8.8,3
+INV-1994,B,Normal,Electronic accessories,237.63,2024-05-04 06:00:00,6.0,6
+INV-1995,B,Member,Fashion accessories,335.24,2024-05-04 09:00:00,5.3,9
+INV-1996,B,Normal,Electronic accessories,851.08,2024-05-04 12:00:00,4.5,12
+INV-1997,C,Member,Electronic accessories,734.28,2024-05-04 15:00:00,6.8,15
+INV-1998,C,Member,Food & beverages,113.49,2024-05-04 18:00:00,6.9,18
+INV-1999,A,Member,Sports & Travel,440.13,2024-05-04 21:00:00,9.0,21
